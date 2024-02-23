@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiposDeDados1", "TiposDeDad
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TipoDeDados2", "TipoDeDados2\TipoDeDados2.csproj", "{18EAF55E-8B81-4465-9E93-FC846F9EC920}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposDeDados3", "TiposDeDados3\TiposDeDados3.csproj", "{35F4E608-5ECA-4591-873B-4DDC8DBE61FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiposDeDados3", "TiposDeDados3\TiposDeDados3.csproj", "{35F4E608-5ECA-4591-873B-4DDC8DBE61FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposDeDados4", "TiposDeDados4\TiposDeDados4.csproj", "{375EC89C-6E53-4D91-9152-5118A1FE584B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{35F4E608-5ECA-4591-873B-4DDC8DBE61FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35F4E608-5ECA-4591-873B-4DDC8DBE61FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35F4E608-5ECA-4591-873B-4DDC8DBE61FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{375EC89C-6E53-4D91-9152-5118A1FE584B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{375EC89C-6E53-4D91-9152-5118A1FE584B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{375EC89C-6E53-4D91-9152-5118A1FE584B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{375EC89C-6E53-4D91-9152-5118A1FE584B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
