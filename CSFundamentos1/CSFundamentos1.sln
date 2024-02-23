@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiposDeDados4", "TiposDeDad
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TipoDateTime1", "TipoDateTime1\TipoDateTime1.csproj", "{73AAE7E1-81AC-419F-9930-3E4AF6D4FD7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableTypes1", "NullableTypes1\NullableTypes1.csproj", "{0444B26E-7BD2-40A4-ACCF-818DCE5CB9EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NullableTypes1", "NullableTypes1\NullableTypes1.csproj", "{0444B26E-7BD2-40A4-ACCF-818DCE5CB9EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Identificadores", "Identificadores\Identificadores.csproj", "{AB578E7C-9E83-4331-9DD1-6CD0961AFA44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{0444B26E-7BD2-40A4-ACCF-818DCE5CB9EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0444B26E-7BD2-40A4-ACCF-818DCE5CB9EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0444B26E-7BD2-40A4-ACCF-818DCE5CB9EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB578E7C-9E83-4331-9DD1-6CD0961AFA44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB578E7C-9E83-4331-9DD1-6CD0961AFA44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB578E7C-9E83-4331-9DD1-6CD0961AFA44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB578E7C-9E83-4331-9DD1-6CD0961AFA44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
