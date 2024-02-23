@@ -5,11 +5,13 @@ VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiposDeDados1", "TiposDeDados1\TiposDeDados1.csproj", "{ADA18AA7-75F9-49BA-872A-7231F1C194B5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TipoDeDados2", "TipoDeDados2\TipoDeDados2.csproj", "{18EAF55E-8B81-4465-9E93-FC846F9EC920}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiposDeDados2", "TipoDeDados2\TiposDeDados2.csproj", "{18EAF55E-8B81-4465-9E93-FC846F9EC920}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiposDeDados3", "TiposDeDados3\TiposDeDados3.csproj", "{35F4E608-5ECA-4591-873B-4DDC8DBE61FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposDeDados4", "TiposDeDados4\TiposDeDados4.csproj", "{375EC89C-6E53-4D91-9152-5118A1FE584B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiposDeDados4", "TiposDeDados4\TiposDeDados4.csproj", "{375EC89C-6E53-4D91-9152-5118A1FE584B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipoDateTime1", "TipoDateTime1\TipoDateTime1.csproj", "{73AAE7E1-81AC-419F-9930-3E4AF6D4FD7C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{375EC89C-6E53-4D91-9152-5118A1FE584B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{375EC89C-6E53-4D91-9152-5118A1FE584B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{375EC89C-6E53-4D91-9152-5118A1FE584B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73AAE7E1-81AC-419F-9930-3E4AF6D4FD7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73AAE7E1-81AC-419F-9930-3E4AF6D4FD7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73AAE7E1-81AC-419F-9930-3E4AF6D4FD7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73AAE7E1-81AC-419F-9930-3E4AF6D4FD7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

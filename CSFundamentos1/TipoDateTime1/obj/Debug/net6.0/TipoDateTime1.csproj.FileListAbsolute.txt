@@ -1,0 +1,15 @@
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\TipoDateTime1\bin\Debug\net6.0\TipoDateTime1.exe
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\TipoDateTime1\bin\Debug\net6.0\TipoDateTime1.deps.json
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\TipoDateTime1\bin\Debug\net6.0\TipoDateTime1.runtimeconfig.json
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\TipoDateTime1\bin\Debug\net6.0\TipoDateTime1.dll
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\TipoDateTime1\bin\Debug\net6.0\TipoDateTime1.pdb
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\TipoDateTime1\obj\Debug\net6.0\TipoDateTime1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\TipoDateTime1\obj\Debug\net6.0\TipoDateTime1.AssemblyInfoInputs.cache
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\TipoDateTime1\obj\Debug\net6.0\TipoDateTime1.AssemblyInfo.cs
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\TipoDateTime1\obj\Debug\net6.0\TipoDateTime1.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\TipoDateTime1\obj\Debug\net6.0\TipoDateTime1.sourcelink.json
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\TipoDateTime1\obj\Debug\net6.0\TipoDateTime1.dll
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\TipoDateTime1\obj\Debug\net6.0\refint\TipoDateTime1.dll
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\TipoDateTime1\obj\Debug\net6.0\TipoDateTime1.pdb
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\TipoDateTime1\obj\Debug\net6.0\TipoDateTime1.genruntimeconfig.cache
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\TipoDateTime1\obj\Debug\net6.0\ref\TipoDateTime1.dll

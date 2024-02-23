@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\TipoDeDados2\\TiposDeDados2.csproj",
-      "projectName": "TiposDeDados2",
-      "projectPath": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\TipoDeDados2\\TiposDeDados2.csproj",
+      "projectUniqueName": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\TipoDateTime1\\TipoDateTime1.csproj",
+      "projectName": "TipoDateTime1",
+      "projectPath": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\TipoDateTime1\\TipoDateTime1.csproj",
       "packagesPath": "C:\\Users\\Tiago Ferrari\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\TipoDeDados2\\obj\\",
+      "outputPath": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\TipoDateTime1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tiago Ferrari\\AppData\\Roaming\\NuGet\\NuGet.Config",

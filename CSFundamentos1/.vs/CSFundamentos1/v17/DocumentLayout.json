@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{73AAE7E1-81AC-419F-9930-3E4AF6D4FD7C}|TipoDateTime1\\TipoDateTime1.csproj|c:\\users\\tiago ferrari\\documents\\curso_cs_essencial\\csfundamentos1\\tipodatetime1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73AAE7E1-81AC-419F-9930-3E4AF6D4FD7C}|TipoDateTime1\\TipoDateTime1.csproj|solutionrelative:tipodatetime1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{375EC89C-6E53-4D91-9152-5118A1FE584B}|TiposDeDados4\\TiposDeDados4.csproj|c:\\users\\tiago ferrari\\documents\\curso_cs_essencial\\csfundamentos1\\tiposdedados4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{375EC89C-6E53-4D91-9152-5118A1FE584B}|TiposDeDados4\\TiposDeDados4.csproj|solutionrelative:tiposdedados4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -32,6 +36,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\TipoDateTime1\\Program.cs",
+              "RelativeDocumentMoniker": "TipoDateTime1\\Program.cs",
+              "ToolTip": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\TipoDateTime1\\Program.cs",
+              "RelativeToolTip": "TipoDateTime1\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T04:31:40.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\TiposDeDados4\\Program.cs",
               "RelativeDocumentMoniker": "TiposDeDados4\\Program.cs",
               "ToolTip": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\TiposDeDados4\\Program.cs",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\TiposDeDados3\\Program.cs",
               "RelativeDocumentMoniker": "TiposDeDados3\\Program.cs",
@@ -56,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\TipoDeDados2\\Program.cs",
               "RelativeDocumentMoniker": "TipoDeDados2\\Program.cs",
@@ -64,19 +81,21 @@
               "RelativeToolTip": "TipoDeDados2\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T22:17:38.063Z"
+              "WhenOpened": "2024-02-22T22:17:38.063Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\TiposDeDados1\\Program.cs",
               "RelativeDocumentMoniker": "TiposDeDados1\\Program.cs",
               "ToolTip": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\TiposDeDados1\\Program.cs",
               "RelativeToolTip": "TiposDeDados1\\Program.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABoAAAAAAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAABBwBoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T21:17:46.321Z"
+              "WhenOpened": "2024-02-22T21:17:46.321Z",
+              "EditorCaption": ""
             }
           ]
         }
