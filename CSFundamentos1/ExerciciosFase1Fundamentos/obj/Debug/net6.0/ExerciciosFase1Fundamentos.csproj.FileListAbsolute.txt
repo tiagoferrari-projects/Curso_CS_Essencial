@@ -1,0 +1,15 @@
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\ExerciciosFase1Fundamentos\bin\Debug\net6.0\ExerciciosFase1Fundamentos.exe
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\ExerciciosFase1Fundamentos\bin\Debug\net6.0\ExerciciosFase1Fundamentos.deps.json
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\ExerciciosFase1Fundamentos\bin\Debug\net6.0\ExerciciosFase1Fundamentos.runtimeconfig.json
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\ExerciciosFase1Fundamentos\bin\Debug\net6.0\ExerciciosFase1Fundamentos.dll
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\ExerciciosFase1Fundamentos\bin\Debug\net6.0\ExerciciosFase1Fundamentos.pdb
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\ExerciciosFase1Fundamentos\obj\Debug\net6.0\ExerciciosFase1Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\ExerciciosFase1Fundamentos\obj\Debug\net6.0\ExerciciosFase1Fundamentos.AssemblyInfoInputs.cache
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\ExerciciosFase1Fundamentos\obj\Debug\net6.0\ExerciciosFase1Fundamentos.AssemblyInfo.cs
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\ExerciciosFase1Fundamentos\obj\Debug\net6.0\ExerciciosFase1Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\ExerciciosFase1Fundamentos\obj\Debug\net6.0\ExerciciosFase1Fundamentos.sourcelink.json
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\ExerciciosFase1Fundamentos\obj\Debug\net6.0\ExerciciosFase1Fundamentos.dll
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\ExerciciosFase1Fundamentos\obj\Debug\net6.0\refint\ExerciciosFase1Fundamentos.dll
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\ExerciciosFase1Fundamentos\obj\Debug\net6.0\ExerciciosFase1Fundamentos.pdb
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\ExerciciosFase1Fundamentos\obj\Debug\net6.0\ExerciciosFase1Fundamentos.genruntimeconfig.cache
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\ExerciciosFase1Fundamentos\obj\Debug\net6.0\ref\ExerciciosFase1Fundamentos.dll

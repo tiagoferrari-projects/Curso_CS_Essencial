@@ -3,32 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB578E7C-9E83-4331-9DD1-6CD0961AFA44}|Identificadores\\Identificadores.csproj|c:\\users\\tiago ferrari\\documents\\curso_cs_essencial\\csfundamentos1\\identificadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB578E7C-9E83-4331-9DD1-6CD0961AFA44}|Identificadores\\Identificadores.csproj|solutionrelative:identificadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0444B26E-7BD2-40A4-ACCF-818DCE5CB9EB}|NullableTypes1\\NullableTypes1.csproj|c:\\users\\tiago ferrari\\documents\\curso_cs_essencial\\csfundamentos1\\nullabletypes1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0444B26E-7BD2-40A4-ACCF-818DCE5CB9EB}|NullableTypes1\\NullableTypes1.csproj|solutionrelative:nullabletypes1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73AAE7E1-81AC-419F-9930-3E4AF6D4FD7C}|TipoDateTime1\\TipoDateTime1.csproj|c:\\users\\tiago ferrari\\documents\\curso_cs_essencial\\csfundamentos1\\tipodatetime1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73AAE7E1-81AC-419F-9930-3E4AF6D4FD7C}|TipoDateTime1\\TipoDateTime1.csproj|solutionrelative:tipodatetime1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{375EC89C-6E53-4D91-9152-5118A1FE584B}|TiposDeDados4\\TiposDeDados4.csproj|c:\\users\\tiago ferrari\\documents\\curso_cs_essencial\\csfundamentos1\\tiposdedados4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{375EC89C-6E53-4D91-9152-5118A1FE584B}|TiposDeDados4\\TiposDeDados4.csproj|solutionrelative:tiposdedados4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35F4E608-5ECA-4591-873B-4DDC8DBE61FD}|TiposDeDados3\\TiposDeDados3.csproj|c:\\users\\tiago ferrari\\documents\\curso_cs_essencial\\csfundamentos1\\tiposdedados3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35F4E608-5ECA-4591-873B-4DDC8DBE61FD}|TiposDeDados3\\TiposDeDados3.csproj|solutionrelative:tiposdedados3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADA18AA7-75F9-49BA-872A-7231F1C194B5}|TiposDeDados1\\TiposDeDados1.csproj|c:\\users\\tiago ferrari\\documents\\curso_cs_essencial\\csfundamentos1\\tiposdedados1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADA18AA7-75F9-49BA-872A-7231F1C194B5}|TiposDeDados1\\TiposDeDados1.csproj|solutionrelative:tiposdedados1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18EAF55E-8B81-4465-9E93-FC846F9EC920}|TipoDeDados2\\TiposDeDados2.csproj|c:\\users\\tiago ferrari\\documents\\curso_cs_essencial\\csfundamentos1\\tipodedados2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18EAF55E-8B81-4465-9E93-FC846F9EC920}|TipoDeDados2\\TiposDeDados2.csproj|solutionrelative:tipodedados2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF47AAA3-395F-47B4-AB33-CF9C4687E5EB}|ExerciciosFase1Fundamentos\\ExerciciosFase1Fundamentos.csproj|c:\\users\\tiago ferrari\\documents\\curso_cs_essencial\\csfundamentos1\\exerciciosfase1fundamentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF47AAA3-395F-47B4-AB33-CF9C4687E5EB}|ExerciciosFase1Fundamentos\\ExerciciosFase1Fundamentos.csproj|solutionrelative:exerciciosfase1fundamentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,87 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\Identificadores\\Program.cs",
-              "RelativeDocumentMoniker": "Identificadores\\Program.cs",
-              "ToolTip": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\Identificadores\\Program.cs",
-              "RelativeToolTip": "Identificadores\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "DocumentMoniker": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\ExerciciosFase1Fundamentos\\Program.cs",
+              "RelativeDocumentMoniker": "ExerciciosFase1Fundamentos\\Program.cs",
+              "ToolTip": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\ExerciciosFase1Fundamentos\\Program.cs",
+              "RelativeToolTip": "ExerciciosFase1Fundamentos\\Program.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAuwFkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T19:55:11.38Z",
+              "WhenOpened": "2024-02-23T20:08:00.179Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\NullableTypes1\\Program.cs",
-              "RelativeDocumentMoniker": "NullableTypes1\\Program.cs",
-              "ToolTip": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\NullableTypes1\\Program.cs",
-              "RelativeToolTip": "NullableTypes1\\Program.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAACgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T19:17:18.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\TipoDateTime1\\Program.cs",
-              "RelativeDocumentMoniker": "TipoDateTime1\\Program.cs",
-              "ToolTip": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\TipoDateTime1\\Program.cs",
-              "RelativeToolTip": "TipoDateTime1\\Program.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAAACgAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T04:31:40.84Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\TiposDeDados4\\Program.cs",
-              "RelativeDocumentMoniker": "TiposDeDados4\\Program.cs",
-              "ToolTip": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\TiposDeDados4\\Program.cs",
-              "RelativeToolTip": "TiposDeDados4\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T03:25:01.642Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\TiposDeDados3\\Program.cs",
-              "RelativeDocumentMoniker": "TiposDeDados3\\Program.cs",
-              "ToolTip": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\TiposDeDados3\\Program.cs",
-              "RelativeToolTip": "TiposDeDados3\\Program.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBYAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T03:06:41.867Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\TipoDeDados2\\Program.cs",
-              "RelativeDocumentMoniker": "TipoDeDados2\\Program.cs",
-              "ToolTip": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\TipoDeDados2\\Program.cs",
-              "RelativeToolTip": "TipoDeDados2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T22:17:38.063Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\TiposDeDados1\\Program.cs",
-              "RelativeDocumentMoniker": "TiposDeDados1\\Program.cs",
-              "ToolTip": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\TiposDeDados1\\Program.cs",
-              "RelativeToolTip": "TiposDeDados1\\Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAABBwBoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T21:17:46.321Z"
             }
           ]
         }
