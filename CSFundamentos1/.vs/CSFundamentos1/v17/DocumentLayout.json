@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\",
+  "WorkspaceRootPath": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\CSFundamentos1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{325D27C1-3018-4D0B-80DE-D6E2B9CC8B0D}|SaidaDados2\\SaidaDados2.csproj|c:\\users\\tiago ferrari\\documents\\curso_cs_essencial\\csfundamentos1\\saidadados2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4FBED18C-D353-44DB-9C8D-D8BAA114490A}|ConversaoTipos1\\ConversaoTipos1.csproj|c:\\users\\tiago\\onedrive\\documentos\\github\\curso_cs_essencial\\csfundamentos1\\conversaotipos1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FBED18C-D353-44DB-9C8D-D8BAA114490A}|ConversaoTipos1\\ConversaoTipos1.csproj|solutionrelative:conversaotipos1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325D27C1-3018-4D0B-80DE-D6E2B9CC8B0D}|SaidaDados2\\SaidaDados2.csproj|c:\\users\\tiago\\onedrive\\documentos\\github\\curso_cs_essencial\\csfundamentos1\\saidadados2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{325D27C1-3018-4D0B-80DE-D6E2B9CC8B0D}|SaidaDados2\\SaidaDados2.csproj|solutionrelative:saidadados2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,15 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\SaidaDados2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\CSFundamentos1\\ConversaoTipos1\\Program.cs",
+              "RelativeDocumentMoniker": "ConversaoTipos1\\Program.cs",
+              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\CSFundamentos1\\ConversaoTipos1\\Program.cs",
+              "RelativeToolTip": "ConversaoTipos1\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAiwBwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T16:03:33.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\CSFundamentos1\\SaidaDados2\\Program.cs",
               "RelativeDocumentMoniker": "SaidaDados2\\Program.cs",
-              "ToolTip": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\SaidaDados2\\Program.cs",
+              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\CSFundamentos1\\SaidaDados2\\Program.cs",
               "RelativeToolTip": "SaidaDados2\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
