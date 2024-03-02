@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\tiago\\.nuget\\packages\\": {}
+    "C:\\Users\\Tiago Ferrari\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\CSFundamentos1\\ExerciciosFase1Fundamentos\\ExerciciosFase1Fundamentos.csproj",
+      "projectUniqueName": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\ExerciciosFase1Fundamentos\\ExerciciosFase1Fundamentos.csproj",
       "projectName": "ExerciciosFase1Fundamentos",
-      "projectPath": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\CSFundamentos1\\ExerciciosFase1Fundamentos\\ExerciciosFase1Fundamentos.csproj",
-      "packagesPath": "C:\\Users\\tiago\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\CSFundamentos1\\ExerciciosFase1Fundamentos\\obj\\",
+      "projectPath": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\ExerciciosFase1Fundamentos\\ExerciciosFase1Fundamentos.csproj",
+      "packagesPath": "C:\\Users\\Tiago Ferrari\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\ExerciciosFase1Fundamentos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\tiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Tiago Ferrari\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

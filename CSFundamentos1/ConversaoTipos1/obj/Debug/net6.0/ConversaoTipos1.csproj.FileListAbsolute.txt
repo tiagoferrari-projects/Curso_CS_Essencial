@@ -13,3 +13,18 @@ C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\Conv
 C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\ConversaoTipos1\obj\Debug\net6.0\ConversaoTipos1.pdb
 C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\ConversaoTipos1\obj\Debug\net6.0\ConversaoTipos1.genruntimeconfig.cache
 C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\ConversaoTipos1\obj\Debug\net6.0\ref\ConversaoTipos1.dll
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\ConversaoTipos1\bin\Debug\net6.0\ConversaoTipos1.exe
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\ConversaoTipos1\bin\Debug\net6.0\ConversaoTipos1.deps.json
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\ConversaoTipos1\bin\Debug\net6.0\ConversaoTipos1.runtimeconfig.json
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\ConversaoTipos1\bin\Debug\net6.0\ConversaoTipos1.dll
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\ConversaoTipos1\bin\Debug\net6.0\ConversaoTipos1.pdb
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\ConversaoTipos1\obj\Debug\net6.0\ConversaoTipos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\ConversaoTipos1\obj\Debug\net6.0\ConversaoTipos1.AssemblyInfoInputs.cache
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\ConversaoTipos1\obj\Debug\net6.0\ConversaoTipos1.AssemblyInfo.cs
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\ConversaoTipos1\obj\Debug\net6.0\ConversaoTipos1.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\ConversaoTipos1\obj\Debug\net6.0\ConversaoTipos1.sourcelink.json
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\ConversaoTipos1\obj\Debug\net6.0\ConversaoTipos1.dll
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\ConversaoTipos1\obj\Debug\net6.0\refint\ConversaoTipos1.dll
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\ConversaoTipos1\obj\Debug\net6.0\ConversaoTipos1.pdb
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\ConversaoTipos1\obj\Debug\net6.0\ConversaoTipos1.genruntimeconfig.cache
+C:\Users\Tiago Ferrari\Documents\Curso_CS_Essencial\CSFundamentos1\ConversaoTipos1\obj\Debug\net6.0\ref\ConversaoTipos1.dll

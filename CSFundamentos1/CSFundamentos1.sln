@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaidaDados", "SaidaDados\Sa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaidaDados2", "SaidaDados2\SaidaDados2.csproj", "{325D27C1-3018-4D0B-80DE-D6E2B9CC8B0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoTipos1", "ConversaoTipos1\ConversaoTipos1.csproj", "{4FBED18C-D353-44DB-9C8D-D8BAA114490A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConversaoTipos1", "ConversaoTipos1\ConversaoTipos1.csproj", "{4FBED18C-D353-44DB-9C8D-D8BAA114490A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoTipos2", "ConversaoTipos2\ConversaoTipos2.csproj", "{10E5A326-188F-49E5-AA9B-8B41A6ED68FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{4FBED18C-D353-44DB-9C8D-D8BAA114490A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FBED18C-D353-44DB-9C8D-D8BAA114490A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FBED18C-D353-44DB-9C8D-D8BAA114490A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10E5A326-188F-49E5-AA9B-8B41A6ED68FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10E5A326-188F-49E5-AA9B-8B41A6ED68FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10E5A326-188F-49E5-AA9B-8B41A6ED68FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10E5A326-188F-49E5-AA9B-8B41A6ED68FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

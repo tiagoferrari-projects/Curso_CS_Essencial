@@ -8,9 +8,9 @@ Console.WriteLine("Conversões Implícitas");
 // double -> 8 bytes
 // decimal -> 16 bytes
 
-int varInt = 100;
-double varDouble = varInt;
-Console.WriteLine(varDouble);
+//int varInt = 100;
+//double varDouble = varInt;
+//Console.WriteLine(varDouble);
 
 int numeroInt = 2145678;
 long numeroLong = numeroInt;
@@ -25,8 +25,15 @@ Console.WriteLine(numeroDouble);
 Console.WriteLine(numeroDecimal);
 
 Console.WriteLine("Conversões Explícitas");
-double varDouble = 12.456;
-int varInt = (int)
+double varDouble = 12.456;      // 8 bytes
+int varInt = (int)varDouble;    // 4 bytes (perda de precisão)
+Console.WriteLine(varDouble);
+Console.WriteLine(varInt);
 
+int num1 = 10;
+int num2 = 4;
+float resultado = (float) num1 / num2;
+
+Console.WriteLine(resultado);
 
 Console.ReadLine();
