@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConversaoTipos1", "Conversa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConversaoTipos2", "ConversaoTipos2\ConversaoTipos2.csproj", "{10E5A326-188F-49E5-AA9B-8B41A6ED68FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntradaDeDados", "EntradaDeDados\EntradaDeDados.csproj", "{2AFE6696-500B-45F4-AB72-8F2412F15174}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntradaDeDados", "EntradaDeDados\EntradaDeDados.csproj", "{2AFE6696-500B-45F4-AB72-8F2412F15174}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresAritmeticos", "OperadoresAritmeticos\OperadoresAritmeticos.csproj", "{64783CFB-A319-459F-A7F7-6B95EDB92552}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{2AFE6696-500B-45F4-AB72-8F2412F15174}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AFE6696-500B-45F4-AB72-8F2412F15174}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AFE6696-500B-45F4-AB72-8F2412F15174}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64783CFB-A319-459F-A7F7-6B95EDB92552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64783CFB-A319-459F-A7F7-6B95EDB92552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64783CFB-A319-459F-A7F7-6B95EDB92552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64783CFB-A319-459F-A7F7-6B95EDB92552}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
