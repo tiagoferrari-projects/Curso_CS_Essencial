@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{64783CFB-A319-459F-A7F7-6B95EDB92552}|OperadoresAritmeticos\\OperadoresAritmeticos.csproj|solutionrelative:operadoresaritmeticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F47A109E-2AE0-42A7-88EB-B1D88978F1AD}|InferenciaTipos1\\InferenciaTipos1.csproj|c:\\users\\tiago ferrari\\documents\\curso_cs_essencial\\csfundamentos1\\inferenciatipos1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47A109E-2AE0-42A7-88EB-B1D88978F1AD}|InferenciaTipos1\\InferenciaTipos1.csproj|solutionrelative:inferenciatipos1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2AFE6696-500B-45F4-AB72-8F2412F15174}|EntradaDeDados\\EntradaDeDados.csproj|c:\\users\\tiago ferrari\\documents\\curso_cs_essencial\\csfundamentos1\\entradadedados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AFE6696-500B-45F4-AB72-8F2412F15174}|EntradaDeDados\\EntradaDeDados.csproj|solutionrelative:entradadedados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\InferenciaTipos1\\Program.cs",
+              "RelativeDocumentMoniker": "InferenciaTipos1\\Program.cs",
+              "ToolTip": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\InferenciaTipos1\\Program.cs",
+              "RelativeToolTip": "InferenciaTipos1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T06:29:45.615Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -32,14 +49,14 @@
               "RelativeDocumentMoniker": "OperadoresAritmeticos\\Program.cs",
               "ToolTip": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\OperadoresAritmeticos\\Program.cs",
               "RelativeToolTip": "OperadoresAritmeticos\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA5AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-02T16:15:56.335Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\EntradaDeDados\\Program.cs",
               "RelativeDocumentMoniker": "EntradaDeDados\\Program.cs",
@@ -47,8 +64,7 @@
               "RelativeToolTip": "EntradaDeDados\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T15:52:49.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-02T15:52:49.897Z"
             }
           ]
         }
