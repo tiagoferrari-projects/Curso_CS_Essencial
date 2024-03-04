@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\TiposDeDados3\\TiposDeDados3.csproj": {}
+    "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\CSFundamentos1\\TiposDeDados3\\TiposDeDados3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\TiposDeDados3\\TiposDeDados3.csproj": {
+    "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\CSFundamentos1\\TiposDeDados3\\TiposDeDados3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\TiposDeDados3\\TiposDeDados3.csproj",
+        "projectUniqueName": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\CSFundamentos1\\TiposDeDados3\\TiposDeDados3.csproj",
         "projectName": "TiposDeDados3",
-        "projectPath": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\TiposDeDados3\\TiposDeDados3.csproj",
-        "packagesPath": "C:\\Users\\Tiago Ferrari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\TiposDeDados3\\obj\\",
+        "projectPath": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\CSFundamentos1\\TiposDeDados3\\TiposDeDados3.csproj",
+        "packagesPath": "C:\\Users\\tiago\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\CSFundamentos1\\TiposDeDados3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Tiago Ferrari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

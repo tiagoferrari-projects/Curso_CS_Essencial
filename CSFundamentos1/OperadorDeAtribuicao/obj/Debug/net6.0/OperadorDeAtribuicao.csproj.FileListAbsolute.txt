@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\OperadorDeAtribuicao\bin\Debug\net6.0\OperadorDeAtribuicao.exe
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\OperadorDeAtribuicao\bin\Debug\net6.0\OperadorDeAtribuicao.deps.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\OperadorDeAtribuicao\bin\Debug\net6.0\OperadorDeAtribuicao.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\OperadorDeAtribuicao\bin\Debug\net6.0\OperadorDeAtribuicao.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\OperadorDeAtribuicao\bin\Debug\net6.0\OperadorDeAtribuicao.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\OperadorDeAtribuicao\obj\Debug\net6.0\OperadorDeAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\OperadorDeAtribuicao\obj\Debug\net6.0\OperadorDeAtribuicao.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\OperadorDeAtribuicao\obj\Debug\net6.0\OperadorDeAtribuicao.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\OperadorDeAtribuicao\obj\Debug\net6.0\OperadorDeAtribuicao.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\OperadorDeAtribuicao\obj\Debug\net6.0\OperadorDeAtribuicao.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\OperadorDeAtribuicao\obj\Debug\net6.0\OperadorDeAtribuicao.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\OperadorDeAtribuicao\obj\Debug\net6.0\refint\OperadorDeAtribuicao.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\OperadorDeAtribuicao\obj\Debug\net6.0\OperadorDeAtribuicao.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\OperadorDeAtribuicao\obj\Debug\net6.0\OperadorDeAtribuicao.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\OperadorDeAtribuicao\obj\Debug\net6.0\ref\OperadorDeAtribuicao.dll

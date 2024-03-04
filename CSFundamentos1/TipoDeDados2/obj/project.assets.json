@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Tiago Ferrari\\.nuget\\packages\\": {}
+    "C:\\Users\\tiago\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\TipoDeDados2\\TiposDeDados2.csproj",
+      "projectUniqueName": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\CSFundamentos1\\TipoDeDados2\\TiposDeDados2.csproj",
       "projectName": "TiposDeDados2",
-      "projectPath": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\TipoDeDados2\\TiposDeDados2.csproj",
-      "packagesPath": "C:\\Users\\Tiago Ferrari\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tiago Ferrari\\Documents\\Curso_CS_Essencial\\CSFundamentos1\\TipoDeDados2\\obj\\",
+      "projectPath": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\CSFundamentos1\\TipoDeDados2\\TiposDeDados2.csproj",
+      "packagesPath": "C:\\Users\\tiago\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\CSFundamentos1\\TipoDeDados2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Tiago Ferrari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

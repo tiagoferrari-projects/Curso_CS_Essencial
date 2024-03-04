@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\InferenciaTipos1\bin\Debug\net6.0\InferenciaTipos1.exe
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\InferenciaTipos1\bin\Debug\net6.0\InferenciaTipos1.deps.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\InferenciaTipos1\bin\Debug\net6.0\InferenciaTipos1.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\InferenciaTipos1\bin\Debug\net6.0\InferenciaTipos1.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\InferenciaTipos1\bin\Debug\net6.0\InferenciaTipos1.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\InferenciaTipos1\obj\Debug\net6.0\InferenciaTipos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\InferenciaTipos1\obj\Debug\net6.0\InferenciaTipos1.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\InferenciaTipos1\obj\Debug\net6.0\InferenciaTipos1.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\InferenciaTipos1\obj\Debug\net6.0\InferenciaTipos1.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\InferenciaTipos1\obj\Debug\net6.0\InferenciaTipos1.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\InferenciaTipos1\obj\Debug\net6.0\InferenciaTipos1.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\InferenciaTipos1\obj\Debug\net6.0\refint\InferenciaTipos1.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\InferenciaTipos1\obj\Debug\net6.0\InferenciaTipos1.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\InferenciaTipos1\obj\Debug\net6.0\InferenciaTipos1.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\InferenciaTipos1\obj\Debug\net6.0\ref\InferenciaTipos1.dll
