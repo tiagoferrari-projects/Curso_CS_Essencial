@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InferenciaTipos1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29677c7fdece5258fa17ee3e5aae80918a4c92f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+990b27f69f4b8cef16f46b3d4b7f73161e06c7db")]
 [assembly: System.Reflection.AssemblyProductAttribute("InferenciaTipos1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InferenciaTipos1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

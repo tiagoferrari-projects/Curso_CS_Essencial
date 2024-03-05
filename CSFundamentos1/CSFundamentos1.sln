@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InferenciaTipos1", "Inferen
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresDeAtribuicao1", "OperadorDeAtribuicao\OperadoresDeAtribuicao1.csproj", "{7AC6ECA6-D9FC-4314-9006-1FF0417FD215}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constantes1", "Constantes1\Constantes1.csproj", "{32556090-0D20-4984-84AB-8D6A5B662B73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constantes1", "Constantes1\Constantes1.csproj", "{32556090-0D20-4984-84AB-8D6A5B662B73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresIncrementoDecremento1", "OperadoresIncrementoDecremento1\OperadoresIncrementoDecremento1.csproj", "{D27AA845-08D7-48A9-8C84-1FB1093D4BBA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{32556090-0D20-4984-84AB-8D6A5B662B73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32556090-0D20-4984-84AB-8D6A5B662B73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32556090-0D20-4984-84AB-8D6A5B662B73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D27AA845-08D7-48A9-8C84-1FB1093D4BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D27AA845-08D7-48A9-8C84-1FB1093D4BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D27AA845-08D7-48A9-8C84-1FB1093D4BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D27AA845-08D7-48A9-8C84-1FB1093D4BBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
