@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\CSFundamentos1\\ConversaoTipos2\\ConversaoTipos2.csproj": {}
+    "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\CSFundamentos1\\ConversaoTipos2\\ConversaoTipos2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\CSFundamentos1\\ConversaoTipos2\\ConversaoTipos2.csproj": {
+    "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\CSFundamentos1\\ConversaoTipos2\\ConversaoTipos2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\CSFundamentos1\\ConversaoTipos2\\ConversaoTipos2.csproj",
+        "projectUniqueName": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\CSFundamentos1\\ConversaoTipos2\\ConversaoTipos2.csproj",
         "projectName": "ConversaoTipos2",
-        "projectPath": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\CSFundamentos1\\ConversaoTipos2\\ConversaoTipos2.csproj",
+        "projectPath": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\CSFundamentos1\\ConversaoTipos2\\ConversaoTipos2.csproj",
         "packagesPath": "C:\\Users\\tiago\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\CSFundamentos1\\ConversaoTipos2\\obj\\",
+        "outputPath": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\CSFundamentos1\\ConversaoTipos2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
