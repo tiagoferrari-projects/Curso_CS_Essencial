@@ -13,8 +13,12 @@
         "packagesPath": "C:\\Users\\tiago\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\CSFundamentos1\\TipoDateTime1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\tiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

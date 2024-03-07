@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConversaoTipos1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+990b27f69f4b8cef16f46b3d4b7f73161e06c7db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82c25319f90d893cbf074c77a908d58031362644")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConversaoTipos1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConversaoTipos1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
