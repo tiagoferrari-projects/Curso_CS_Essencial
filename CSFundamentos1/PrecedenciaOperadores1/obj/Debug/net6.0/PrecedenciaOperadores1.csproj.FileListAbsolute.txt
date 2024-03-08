@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\CSFundamentos1\PrecedenciaOperadores1\bin\Debug\net6.0\PrecedenciaOperadores1.exe
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\CSFundamentos1\PrecedenciaOperadores1\bin\Debug\net6.0\PrecedenciaOperadores1.deps.json
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\CSFundamentos1\PrecedenciaOperadores1\bin\Debug\net6.0\PrecedenciaOperadores1.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\CSFundamentos1\PrecedenciaOperadores1\bin\Debug\net6.0\PrecedenciaOperadores1.dll
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\CSFundamentos1\PrecedenciaOperadores1\bin\Debug\net6.0\PrecedenciaOperadores1.pdb
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\CSFundamentos1\PrecedenciaOperadores1\obj\Debug\net6.0\PrecedenciaOperadores1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\CSFundamentos1\PrecedenciaOperadores1\obj\Debug\net6.0\PrecedenciaOperadores1.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\CSFundamentos1\PrecedenciaOperadores1\obj\Debug\net6.0\PrecedenciaOperadores1.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\CSFundamentos1\PrecedenciaOperadores1\obj\Debug\net6.0\PrecedenciaOperadores1.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\CSFundamentos1\PrecedenciaOperadores1\obj\Debug\net6.0\PrecedenciaOperadores1.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\CSFundamentos1\PrecedenciaOperadores1\obj\Debug\net6.0\PrecedenciaOperadores1.dll
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\CSFundamentos1\PrecedenciaOperadores1\obj\Debug\net6.0\refint\PrecedenciaOperadores1.dll
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\CSFundamentos1\PrecedenciaOperadores1\obj\Debug\net6.0\PrecedenciaOperadores1.pdb
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\CSFundamentos1\PrecedenciaOperadores1\obj\Debug\net6.0\PrecedenciaOperadores1.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\CSFundamentos1\PrecedenciaOperadores1\obj\Debug\net6.0\ref\PrecedenciaOperadores1.dll
