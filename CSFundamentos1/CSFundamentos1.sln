@@ -41,11 +41,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresIncrementoDecreme
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresRelacionais1", "OperadoresRelacionais1\OperadoresRelacionais1.csproj", "{EAE8486F-0315-4E13-A35C-5B80F3135227}"
 EndProject
-<<<<<<< Updated upstream
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresLogicos1", "OperadoresLogicos1\OperadoresLogicos1.csproj", "{0E8F4945-4C9A-4A95-8157-B0980CEEBF44}"
-=======
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrecedenciaOperadores1", "PrecedenciaOperadores1\PrecedenciaOperadores1.csproj", "{A60C0A10-4E52-4BE6-8551-2B1EE9F27A02}"
->>>>>>> Stashed changes
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresLogicos1", "OperadoresLogicos1\OperadoresLogicos1.csproj", "{0E8F4945-4C9A-4A95-8157-B0980CEEBF44}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrecedenciaOperadores1", "PrecedenciaOperadores1\PrecedenciaOperadores1.csproj", "{A60C0A10-4E52-4BE6-8551-2B1EE9F27A02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposReferenciasAnulaveis1", "TiposReferenciasAnulaveis1\TiposReferenciasAnulaveis1.csproj", "{79804470-C953-4FA3-92C1-F3974FA9D8AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,17 +129,18 @@ Global
 		{EAE8486F-0315-4E13-A35C-5B80F3135227}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAE8486F-0315-4E13-A35C-5B80F3135227}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAE8486F-0315-4E13-A35C-5B80F3135227}.Release|Any CPU.Build.0 = Release|Any CPU
-<<<<<<< Updated upstream
 		{0E8F4945-4C9A-4A95-8157-B0980CEEBF44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0E8F4945-4C9A-4A95-8157-B0980CEEBF44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E8F4945-4C9A-4A95-8157-B0980CEEBF44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E8F4945-4C9A-4A95-8157-B0980CEEBF44}.Release|Any CPU.Build.0 = Release|Any CPU
-=======
 		{A60C0A10-4E52-4BE6-8551-2B1EE9F27A02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A60C0A10-4E52-4BE6-8551-2B1EE9F27A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A60C0A10-4E52-4BE6-8551-2B1EE9F27A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A60C0A10-4E52-4BE6-8551-2B1EE9F27A02}.Release|Any CPU.Build.0 = Release|Any CPU
->>>>>>> Stashed changes
+		{79804470-C953-4FA3-92C1-F3974FA9D8AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79804470-C953-4FA3-92C1-F3974FA9D8AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79804470-C953-4FA3-92C1-F3974FA9D8AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79804470-C953-4FA3-92C1-F3974FA9D8AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

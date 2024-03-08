@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\TiposReferenciasAnulaveis1\bin\Debug\net6.0\TiposReferenciasAnulaveis1.exe
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\TiposReferenciasAnulaveis1\bin\Debug\net6.0\TiposReferenciasAnulaveis1.deps.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\TiposReferenciasAnulaveis1\bin\Debug\net6.0\TiposReferenciasAnulaveis1.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\TiposReferenciasAnulaveis1\bin\Debug\net6.0\TiposReferenciasAnulaveis1.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\TiposReferenciasAnulaveis1\bin\Debug\net6.0\TiposReferenciasAnulaveis1.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\TiposReferenciasAnulaveis1\obj\Debug\net6.0\TiposReferenciasAnulaveis1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\TiposReferenciasAnulaveis1\obj\Debug\net6.0\TiposReferenciasAnulaveis1.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\TiposReferenciasAnulaveis1\obj\Debug\net6.0\TiposReferenciasAnulaveis1.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\TiposReferenciasAnulaveis1\obj\Debug\net6.0\TiposReferenciasAnulaveis1.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\TiposReferenciasAnulaveis1\obj\Debug\net6.0\TiposReferenciasAnulaveis1.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\TiposReferenciasAnulaveis1\obj\Debug\net6.0\TiposReferenciasAnulaveis1.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\TiposReferenciasAnulaveis1\obj\Debug\net6.0\refint\TiposReferenciasAnulaveis1.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\TiposReferenciasAnulaveis1\obj\Debug\net6.0\TiposReferenciasAnulaveis1.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\TiposReferenciasAnulaveis1\obj\Debug\net6.0\TiposReferenciasAnulaveis1.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\CSFundamentos1\TiposReferenciasAnulaveis1\obj\Debug\net6.0\ref\TiposReferenciasAnulaveis1.dll

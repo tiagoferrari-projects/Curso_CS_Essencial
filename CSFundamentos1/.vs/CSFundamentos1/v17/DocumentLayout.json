@@ -3,19 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\CSFundamentos1\\",
   "Documents": [
     {
-<<<<<<< Updated upstream
+      "AbsoluteMoniker": "D:0:0:{79804470-C953-4FA3-92C1-F3974FA9D8AE}|TiposReferenciasAnulaveis1\\TiposReferenciasAnulaveis1.csproj|c:\\users\\tiago\\onedrive\\documentos\\github\\curso_cs_essencial\\csfundamentos1\\tiposreferenciasanulaveis1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79804470-C953-4FA3-92C1-F3974FA9D8AE}|TiposReferenciasAnulaveis1\\TiposReferenciasAnulaveis1.csproj|solutionrelative:tiposreferenciasanulaveis1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0E8F4945-4C9A-4A95-8157-B0980CEEBF44}|OperadoresLogicos1\\OperadoresLogicos1.csproj|c:\\users\\tiago\\onedrive\\documentos\\github\\curso_cs_essencial\\csfundamentos1\\operadoreslogicos1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E8F4945-4C9A-4A95-8157-B0980CEEBF44}|OperadoresLogicos1\\OperadoresLogicos1.csproj|solutionrelative:operadoreslogicos1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D27AA845-08D7-48A9-8C84-1FB1093D4BBA}|OperadoresIncrementoDecremento1\\OperadoresIncrementoDecremento1.csproj|c:\\users\\tiago\\onedrive\\documentos\\github\\curso_cs_essencial\\csfundamentos1\\operadoresincrementodecremento1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-=======
-      "AbsoluteMoniker": "D:0:0:{A60C0A10-4E52-4BE6-8551-2B1EE9F27A02}|PrecedenciaOperadores1\\PrecedenciaOperadores1.csproj|c:\\users\\tiago\\onedrive\\documentos\\curso_cs_essencial\\csfundamentos1\\precedenciaoperadores1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A60C0A10-4E52-4BE6-8551-2B1EE9F27A02}|PrecedenciaOperadores1\\PrecedenciaOperadores1.csproj|solutionrelative:precedenciaoperadores1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D27AA845-08D7-48A9-8C84-1FB1093D4BBA}|OperadoresIncrementoDecremento1\\OperadoresIncrementoDecremento1.csproj|c:\\users\\tiago\\onedrive\\documentos\\curso_cs_essencial\\csfundamentos1\\operadoresincrementodecremento1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
->>>>>>> Stashed changes
       "RelativeMoniker": "D:0:0:{D27AA845-08D7-48A9-8C84-1FB1093D4BBA}|OperadoresIncrementoDecremento1\\OperadoresIncrementoDecremento1.csproj|solutionrelative:operadoresincrementodecremento1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -40,35 +36,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-<<<<<<< Updated upstream
-              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\CSFundamentos1\\OperadoresLogicos1\\Program.cs",
-              "RelativeDocumentMoniker": "OperadoresLogicos1\\Program.cs",
-              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\CSFundamentos1\\OperadoresLogicos1\\Program.cs",
-              "RelativeToolTip": "OperadoresLogicos1\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
-=======
-              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\CSFundamentos1\\PrecedenciaOperadores1\\Program.cs",
-              "RelativeDocumentMoniker": "PrecedenciaOperadores1\\Program.cs",
-              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\CSFundamentos1\\PrecedenciaOperadores1\\Program.cs",
-              "RelativeToolTip": "PrecedenciaOperadores1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\CSFundamentos1\\TiposReferenciasAnulaveis1\\Program.cs",
+              "RelativeDocumentMoniker": "TiposReferenciasAnulaveis1\\Program.cs",
+              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\CSFundamentos1\\TiposReferenciasAnulaveis1\\Program.cs",
+              "RelativeToolTip": "TiposReferenciasAnulaveis1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T03:50:03.245Z",
+              "WhenOpened": "2024-03-08T11:30:51.366Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\CSFundamentos1\\OperadoresIncrementoDecremento1\\Program.cs",
-              "RelativeDocumentMoniker": "OperadoresIncrementoDecremento1\\Program.cs",
-              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\CSFundamentos1\\OperadoresIncrementoDecremento1\\Program.cs",
-              "RelativeToolTip": "OperadoresIncrementoDecremento1\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAAAAAA",
->>>>>>> Stashed changes
+              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\CSFundamentos1\\OperadoresLogicos1\\Program.cs",
+              "RelativeDocumentMoniker": "OperadoresLogicos1\\Program.cs",
+              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\CSFundamentos1\\OperadoresLogicos1\\Program.cs",
+              "RelativeToolTip": "OperadoresLogicos1\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T11:25:47.342Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T11:25:47.342Z"
             },
             {
               "$type": "Document",
@@ -84,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\CSFundamentos1\\Constantes1\\Program.cs",
               "RelativeDocumentMoniker": "Constantes1\\Program.cs",
