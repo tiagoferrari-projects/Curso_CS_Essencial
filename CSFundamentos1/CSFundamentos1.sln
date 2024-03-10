@@ -47,7 +47,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrecedenciaOperadores1", "P
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiposReferenciasAnulaveis1", "TiposReferenciasAnulaveis1\TiposReferenciasAnulaveis1.csproj", "{79804470-C953-4FA3-92C1-F3974FA9D8AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadorUniarioTernario1", "OperadorUniarioTernario1\OperadorUniarioTernario1.csproj", "{E3DCAFE0-3452-4998-B85B-BEA3FAE14139}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadorUniarioTernario1", "OperadorUniarioTernario1\OperadorUniarioTernario1.csproj", "{E3DCAFE0-3452-4998-B85B-BEA3FAE14139}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciciosFase2Fundamentos", "ExerciciosFase2Fundamentos\ExerciciosFase2Fundamentos.csproj", "{6308C5D8-DF26-49E1-A2F6-84025B668E84}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{E3DCAFE0-3452-4998-B85B-BEA3FAE14139}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3DCAFE0-3452-4998-B85B-BEA3FAE14139}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3DCAFE0-3452-4998-B85B-BEA3FAE14139}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6308C5D8-DF26-49E1-A2F6-84025B668E84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6308C5D8-DF26-49E1-A2F6-84025B668E84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6308C5D8-DF26-49E1-A2F6-84025B668E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6308C5D8-DF26-49E1-A2F6-84025B668E84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

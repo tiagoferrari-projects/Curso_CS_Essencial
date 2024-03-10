@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\CSFundamentos1\ExerciciosFase2Fundamentos\bin\Debug\net6.0\ExerciciosFase2Fundamentos.exe
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\CSFundamentos1\ExerciciosFase2Fundamentos\bin\Debug\net6.0\ExerciciosFase2Fundamentos.deps.json
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\CSFundamentos1\ExerciciosFase2Fundamentos\bin\Debug\net6.0\ExerciciosFase2Fundamentos.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\CSFundamentos1\ExerciciosFase2Fundamentos\bin\Debug\net6.0\ExerciciosFase2Fundamentos.dll
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\CSFundamentos1\ExerciciosFase2Fundamentos\bin\Debug\net6.0\ExerciciosFase2Fundamentos.pdb
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\CSFundamentos1\ExerciciosFase2Fundamentos\obj\Debug\net6.0\ExerciciosFase2Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\CSFundamentos1\ExerciciosFase2Fundamentos\obj\Debug\net6.0\ExerciciosFase2Fundamentos.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\CSFundamentos1\ExerciciosFase2Fundamentos\obj\Debug\net6.0\ExerciciosFase2Fundamentos.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\CSFundamentos1\ExerciciosFase2Fundamentos\obj\Debug\net6.0\ExerciciosFase2Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\CSFundamentos1\ExerciciosFase2Fundamentos\obj\Debug\net6.0\ExerciciosFase2Fundamentos.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\CSFundamentos1\ExerciciosFase2Fundamentos\obj\Debug\net6.0\ExerciciosFase2Fundamentos.dll
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\CSFundamentos1\ExerciciosFase2Fundamentos\obj\Debug\net6.0\refint\ExerciciosFase2Fundamentos.dll
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\CSFundamentos1\ExerciciosFase2Fundamentos\obj\Debug\net6.0\ExerciciosFase2Fundamentos.pdb
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\CSFundamentos1\ExerciciosFase2Fundamentos\obj\Debug\net6.0\ExerciciosFase2Fundamentos.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\CSFundamentos1\ExerciciosFase2Fundamentos\obj\Debug\net6.0\ref\ExerciciosFase2Fundamentos.dll
