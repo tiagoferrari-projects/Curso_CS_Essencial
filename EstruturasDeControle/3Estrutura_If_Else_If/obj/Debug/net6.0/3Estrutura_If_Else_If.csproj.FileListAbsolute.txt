@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\3Estrutura_If_Else_If\bin\Debug\net6.0\3Estrutura_If_Else_If.exe
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\3Estrutura_If_Else_If\bin\Debug\net6.0\3Estrutura_If_Else_If.deps.json
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\3Estrutura_If_Else_If\bin\Debug\net6.0\3Estrutura_If_Else_If.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\3Estrutura_If_Else_If\bin\Debug\net6.0\3Estrutura_If_Else_If.dll
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\3Estrutura_If_Else_If\bin\Debug\net6.0\3Estrutura_If_Else_If.pdb
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\3Estrutura_If_Else_If\obj\Debug\net6.0\3Estrutura_If_Else_If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\3Estrutura_If_Else_If\obj\Debug\net6.0\3Estrutura_If_Else_If.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\3Estrutura_If_Else_If\obj\Debug\net6.0\3Estrutura_If_Else_If.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\3Estrutura_If_Else_If\obj\Debug\net6.0\3Estrutura_If_Else_If.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\3Estrutura_If_Else_If\obj\Debug\net6.0\3Estrutura_If_Else_If.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\3Estrutura_If_Else_If\obj\Debug\net6.0\3Estrutura_If_Else_If.dll
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\3Estrutura_If_Else_If\obj\Debug\net6.0\refint\3Estrutura_If_Else_If.dll
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\3Estrutura_If_Else_If\obj\Debug\net6.0\3Estrutura_If_Else_If.pdb
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\3Estrutura_If_Else_If\obj\Debug\net6.0\3Estrutura_If_Else_If.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\3Estrutura_If_Else_If\obj\Debug\net6.0\ref\3Estrutura_If_Else_If.dll
