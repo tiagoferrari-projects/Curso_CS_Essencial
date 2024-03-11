@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\4Estrutura_Switch_Case\bin\Debug\net6.0\4Estrutura_Switch_Case.exe
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\4Estrutura_Switch_Case\bin\Debug\net6.0\4Estrutura_Switch_Case.deps.json
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\4Estrutura_Switch_Case\bin\Debug\net6.0\4Estrutura_Switch_Case.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\4Estrutura_Switch_Case\bin\Debug\net6.0\4Estrutura_Switch_Case.dll
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\4Estrutura_Switch_Case\bin\Debug\net6.0\4Estrutura_Switch_Case.pdb
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\4Estrutura_Switch_Case\obj\Debug\net6.0\4Estrutura_Switch_Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\4Estrutura_Switch_Case\obj\Debug\net6.0\4Estrutura_Switch_Case.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\4Estrutura_Switch_Case\obj\Debug\net6.0\4Estrutura_Switch_Case.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\4Estrutura_Switch_Case\obj\Debug\net6.0\4Estrutura_Switch_Case.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\4Estrutura_Switch_Case\obj\Debug\net6.0\4Estrutura_Switch_Case.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\4Estrutura_Switch_Case\obj\Debug\net6.0\4Estrutura_Switch_Case.dll
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\4Estrutura_Switch_Case\obj\Debug\net6.0\refint\4Estrutura_Switch_Case.dll
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\4Estrutura_Switch_Case\obj\Debug\net6.0\4Estrutura_Switch_Case.pdb
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\4Estrutura_Switch_Case\obj\Debug\net6.0\4Estrutura_Switch_Case.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\4Estrutura_Switch_Case\obj\Debug\net6.0\ref\4Estrutura_Switch_Case.dll

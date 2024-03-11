@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("3Estrutura_If_Else_If")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("4Estrutura_Switch_Case")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52ea224b1cea2daf8b3693521cd503c26689867e")]
-[assembly: System.Reflection.AssemblyProductAttribute("3Estrutura_If_Else_If")]
-[assembly: System.Reflection.AssemblyTitleAttribute("3Estrutura_If_Else_If")]
+[assembly: System.Reflection.AssemblyProductAttribute("4Estrutura_Switch_Case")]
+[assembly: System.Reflection.AssemblyTitleAttribute("4Estrutura_Switch_Case")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
