@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\EstruturasDeControle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E954C9C1-36FD-4D7E-B36F-654485B8DB31}|1Estrutura_If\\1Estrutura_If.csproj|c:\\users\\tiago\\onedrive\\documentos\\curso_cs_essencial\\estruturasdecontrole\\1estrutura_if\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E954C9C1-36FD-4D7E-B36F-654485B8DB31}|1Estrutura_If\\1Estrutura_If.csproj|solutionrelative:1estrutura_if\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FCE593F-F1BA-4C53-8B4C-9B32ECBA3E22}|2Estrutura_If_Else\\2Estrutura_If_Else.csproj|c:\\users\\tiago\\onedrive\\documentos\\curso_cs_essencial\\estruturasdecontrole\\2estrutura_if_else\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCE593F-F1BA-4C53-8B4C-9B32ECBA3E22}|2Estrutura_If_Else\\2Estrutura_If_Else.csproj|solutionrelative:2estrutura_if_else\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\EstruturasDeControle\\1Estrutura_If\\Program.cs",
-              "RelativeDocumentMoniker": "1Estrutura_If\\Program.cs",
-              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\EstruturasDeControle\\1Estrutura_If\\Program.cs",
-              "RelativeToolTip": "1Estrutura_If\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\EstruturasDeControle\\2Estrutura_If_Else\\Program.cs",
+              "RelativeDocumentMoniker": "2Estrutura_If_Else\\Program.cs",
+              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\EstruturasDeControle\\2Estrutura_If_Else\\Program.cs",
+              "RelativeToolTip": "2Estrutura_If_Else\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T23:28:34.116Z",
+              "WhenOpened": "2024-03-10T23:59:28.522Z",
               "EditorCaption": ""
             }
           ]
