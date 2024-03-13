@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\5RepeticaoGoTo\bin\Debug\net6.0\5RepeticaoGoTo.exe
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\5RepeticaoGoTo\bin\Debug\net6.0\5RepeticaoGoTo.deps.json
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\5RepeticaoGoTo\bin\Debug\net6.0\5RepeticaoGoTo.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\5RepeticaoGoTo\bin\Debug\net6.0\5RepeticaoGoTo.dll
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\5RepeticaoGoTo\bin\Debug\net6.0\5RepeticaoGoTo.pdb
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\5RepeticaoGoTo\obj\Debug\net6.0\5RepeticaoGoTo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\5RepeticaoGoTo\obj\Debug\net6.0\5RepeticaoGoTo.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\5RepeticaoGoTo\obj\Debug\net6.0\5RepeticaoGoTo.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\5RepeticaoGoTo\obj\Debug\net6.0\5RepeticaoGoTo.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\5RepeticaoGoTo\obj\Debug\net6.0\5RepeticaoGoTo.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\5RepeticaoGoTo\obj\Debug\net6.0\5RepeticaoGoTo.dll
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\5RepeticaoGoTo\obj\Debug\net6.0\refint\5RepeticaoGoTo.dll
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\5RepeticaoGoTo\obj\Debug\net6.0\5RepeticaoGoTo.pdb
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\5RepeticaoGoTo\obj\Debug\net6.0\5RepeticaoGoTo.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\5RepeticaoGoTo\obj\Debug\net6.0\ref\5RepeticaoGoTo.dll
