@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\6Repeticao_While\bin\Debug\net6.0\6Repeticao_While.exe
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\6Repeticao_While\bin\Debug\net6.0\6Repeticao_While.deps.json
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\6Repeticao_While\bin\Debug\net6.0\6Repeticao_While.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\6Repeticao_While\bin\Debug\net6.0\6Repeticao_While.dll
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\6Repeticao_While\bin\Debug\net6.0\6Repeticao_While.pdb
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\6Repeticao_While\obj\Debug\net6.0\6Repeticao_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\6Repeticao_While\obj\Debug\net6.0\6Repeticao_While.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\6Repeticao_While\obj\Debug\net6.0\6Repeticao_While.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\6Repeticao_While\obj\Debug\net6.0\6Repeticao_While.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\6Repeticao_While\obj\Debug\net6.0\6Repeticao_While.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\6Repeticao_While\obj\Debug\net6.0\6Repeticao_While.dll
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\6Repeticao_While\obj\Debug\net6.0\refint\6Repeticao_While.dll
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\6Repeticao_While\obj\Debug\net6.0\6Repeticao_While.pdb
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\6Repeticao_While\obj\Debug\net6.0\6Repeticao_While.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\6Repeticao_While\obj\Debug\net6.0\ref\6Repeticao_While.dll
