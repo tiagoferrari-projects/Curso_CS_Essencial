@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\8Repeticao_For\bin\Debug\net6.0\8Repeticao_For.exe
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\8Repeticao_For\bin\Debug\net6.0\8Repeticao_For.deps.json
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\8Repeticao_For\bin\Debug\net6.0\8Repeticao_For.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\8Repeticao_For\bin\Debug\net6.0\8Repeticao_For.dll
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\8Repeticao_For\bin\Debug\net6.0\8Repeticao_For.pdb
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\8Repeticao_For\obj\Debug\net6.0\8Repeticao_For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\8Repeticao_For\obj\Debug\net6.0\8Repeticao_For.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\8Repeticao_For\obj\Debug\net6.0\8Repeticao_For.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\8Repeticao_For\obj\Debug\net6.0\8Repeticao_For.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\8Repeticao_For\obj\Debug\net6.0\8Repeticao_For.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\8Repeticao_For\obj\Debug\net6.0\8Repeticao_For.dll
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\8Repeticao_For\obj\Debug\net6.0\refint\8Repeticao_For.dll
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\8Repeticao_For\obj\Debug\net6.0\8Repeticao_For.pdb
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\8Repeticao_For\obj\Debug\net6.0\8Repeticao_For.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\8Repeticao_For\obj\Debug\net6.0\ref\8Repeticao_For.dll

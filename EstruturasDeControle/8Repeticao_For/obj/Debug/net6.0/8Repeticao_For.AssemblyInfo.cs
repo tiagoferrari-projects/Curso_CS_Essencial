@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("7Repeticao_Do_While")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("8Repeticao_For")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+211c7a65c08b5ae6fbdedbdd9bcd45ad6acd4624")]
-[assembly: System.Reflection.AssemblyProductAttribute("7Repeticao_Do_While")]
-[assembly: System.Reflection.AssemblyTitleAttribute("7Repeticao_Do_While")]
+[assembly: System.Reflection.AssemblyProductAttribute("8Repeticao_For")]
+[assembly: System.Reflection.AssemblyTitleAttribute("8Repeticao_For")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
