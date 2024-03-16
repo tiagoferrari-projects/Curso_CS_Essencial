@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4Estrutura_Switch_Case", "4
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5Repeticao_GoTo", "5RepeticaoGoTo\5Repeticao_GoTo.csproj", "{79D47096-95F4-4F34-9BBD-4EDB1FD4CEE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6Repeticao_While", "6Repeticao_While\6Repeticao_While.csproj", "{9E416D68-066A-4A18-84C5-F06E1818C43F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6Repeticao_While", "6Repeticao_While\6Repeticao_While.csproj", "{9E416D68-066A-4A18-84C5-F06E1818C43F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7Repeticao_Do_While", "7Repeticao_Do_While\7Repeticao_Do_While.csproj", "{3A8F2E3C-7314-4DFC-A8B9-B4A92F510D2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{9E416D68-066A-4A18-84C5-F06E1818C43F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E416D68-066A-4A18-84C5-F06E1818C43F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E416D68-066A-4A18-84C5-F06E1818C43F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A8F2E3C-7314-4DFC-A8B9-B4A92F510D2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A8F2E3C-7314-4DFC-A8B9-B4A92F510D2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A8F2E3C-7314-4DFC-A8B9-B4A92F510D2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A8F2E3C-7314-4DFC-A8B9-B4A92F510D2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

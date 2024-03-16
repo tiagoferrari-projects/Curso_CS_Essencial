@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\7Repeticao_Do_While\bin\Debug\net6.0\7Repeticao_Do_While.exe
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\7Repeticao_Do_While\bin\Debug\net6.0\7Repeticao_Do_While.deps.json
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\7Repeticao_Do_While\bin\Debug\net6.0\7Repeticao_Do_While.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\7Repeticao_Do_While\bin\Debug\net6.0\7Repeticao_Do_While.dll
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\7Repeticao_Do_While\bin\Debug\net6.0\7Repeticao_Do_While.pdb
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\7Repeticao_Do_While\obj\Debug\net6.0\7Repeticao_Do_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\7Repeticao_Do_While\obj\Debug\net6.0\7Repeticao_Do_While.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\7Repeticao_Do_While\obj\Debug\net6.0\7Repeticao_Do_While.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\7Repeticao_Do_While\obj\Debug\net6.0\7Repeticao_Do_While.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\7Repeticao_Do_While\obj\Debug\net6.0\7Repeticao_Do_While.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\7Repeticao_Do_While\obj\Debug\net6.0\7Repeticao_Do_While.dll
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\7Repeticao_Do_While\obj\Debug\net6.0\refint\7Repeticao_Do_While.dll
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\7Repeticao_Do_While\obj\Debug\net6.0\7Repeticao_Do_While.pdb
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\7Repeticao_Do_While\obj\Debug\net6.0\7Repeticao_Do_While.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\7Repeticao_Do_While\obj\Debug\net6.0\ref\7Repeticao_Do_While.dll
