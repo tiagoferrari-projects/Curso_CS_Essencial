@@ -19,9 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7Repeticao_Do_While", "7Rep
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8Repeticao_For", "8Repeticao_For\8Repeticao_For.csproj", "{1A453AA3-3A07-41E8-865C-B00111315A58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9Repeticao_For", "9Repeticao_For\9Repeticao_For.csproj", "{339C288E-FD6D-4F39-BB76-CD2A0C846FFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9Repeticao_For", "9Repeticao_For\9Repeticao_For.csproj", "{339C288E-FD6D-4F39-BB76-CD2A0C846FFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10Break_Continue", "10Break_Continue\10Break_Continue.csproj", "{1AB9AED4-589E-44E8-BE20-788DAF862AF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10Break_Continue", "10Break_Continue\10Break_Continue.csproj", "{1AB9AED4-589E-44E8-BE20-788DAF862AF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_01", "Exercicio_01\Exercicio_01.csproj", "{A7B0E9B3-97C3-4443-9934-BF2B9AEDFBF7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{1AB9AED4-589E-44E8-BE20-788DAF862AF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AB9AED4-589E-44E8-BE20-788DAF862AF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AB9AED4-589E-44E8-BE20-788DAF862AF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7B0E9B3-97C3-4443-9934-BF2B9AEDFBF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7B0E9B3-97C3-4443-9934-BF2B9AEDFBF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7B0E9B3-97C3-4443-9934-BF2B9AEDFBF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7B0E9B3-97C3-4443-9934-BF2B9AEDFBF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
