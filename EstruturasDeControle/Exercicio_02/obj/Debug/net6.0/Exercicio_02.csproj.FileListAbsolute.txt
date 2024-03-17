@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\Exercicio_02\bin\Debug\net6.0\Exercicio_02.exe
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\Exercicio_02\bin\Debug\net6.0\Exercicio_02.deps.json
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\Exercicio_02\bin\Debug\net6.0\Exercicio_02.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\Exercicio_02\bin\Debug\net6.0\Exercicio_02.dll
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\Exercicio_02\bin\Debug\net6.0\Exercicio_02.pdb
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\Exercicio_02\obj\Debug\net6.0\Exercicio_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\Exercicio_02\obj\Debug\net6.0\Exercicio_02.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\Exercicio_02\obj\Debug\net6.0\Exercicio_02.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\Exercicio_02\obj\Debug\net6.0\Exercicio_02.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\Exercicio_02\obj\Debug\net6.0\Exercicio_02.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\Exercicio_02\obj\Debug\net6.0\Exercicio_02.dll
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\Exercicio_02\obj\Debug\net6.0\refint\Exercicio_02.dll
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\Exercicio_02\obj\Debug\net6.0\Exercicio_02.pdb
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\Exercicio_02\obj\Debug\net6.0\Exercicio_02.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\Exercicio_02\obj\Debug\net6.0\ref\Exercicio_02.dll

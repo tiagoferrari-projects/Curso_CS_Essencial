@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\EstruturasDeControle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7B0E9B3-97C3-4443-9934-BF2B9AEDFBF7}|Exercicio_01\\Exercicio_01.csproj|c:\\users\\tiago\\onedrive\\documentos\\curso_cs_essencial\\estruturasdecontrole\\exercicio_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7B0E9B3-97C3-4443-9934-BF2B9AEDFBF7}|Exercicio_01\\Exercicio_01.csproj|solutionrelative:exercicio_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AB9AED4-589E-44E8-BE20-788DAF862AF6}|10Break_Continue\\10Break_Continue.csproj|c:\\users\\tiago\\onedrive\\documentos\\curso_cs_essencial\\estruturasdecontrole\\10break_continue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AB9AED4-589E-44E8-BE20-788DAF862AF6}|10Break_Continue\\10Break_Continue.csproj|solutionrelative:10break_continue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ABDE727E-F78D-4E41-A4CC-B0D949D6AAE1}|Exercicio_02\\Exercicio_02.csproj|c:\\users\\tiago\\onedrive\\documentos\\curso_cs_essencial\\estruturasdecontrole\\exercicio_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABDE727E-F78D-4E41-A4CC-B0D949D6AAE1}|Exercicio_02\\Exercicio_02.csproj|solutionrelative:exercicio_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,26 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\EstruturasDeControle\\Exercicio_01\\Program.cs",
-              "RelativeDocumentMoniker": "Exercicio_01\\Program.cs",
-              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\EstruturasDeControle\\Exercicio_01\\Program.cs",
-              "RelativeToolTip": "Exercicio_01\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\EstruturasDeControle\\Exercicio_02\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio_02\\Program.cs",
+              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\EstruturasDeControle\\Exercicio_02\\Program.cs",
+              "RelativeToolTip": "Exercicio_02\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAwwBYAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T14:33:15.14Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\EstruturasDeControle\\10Break_Continue\\Program.cs",
-              "RelativeDocumentMoniker": "10Break_Continue\\Program.cs",
-              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\EstruturasDeControle\\10Break_Continue\\Program.cs",
-              "RelativeToolTip": "10Break_Continue\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T13:59:20.559Z",
+              "WhenOpened": "2024-03-17T15:38:27.534Z",
               "EditorCaption": ""
             }
           ]
