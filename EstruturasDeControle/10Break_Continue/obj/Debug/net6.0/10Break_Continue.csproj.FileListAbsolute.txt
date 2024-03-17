@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\10Break_Continue\bin\Debug\net6.0\10Break_Continue.exe
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\10Break_Continue\bin\Debug\net6.0\10Break_Continue.deps.json
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\10Break_Continue\bin\Debug\net6.0\10Break_Continue.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\10Break_Continue\bin\Debug\net6.0\10Break_Continue.dll
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\10Break_Continue\bin\Debug\net6.0\10Break_Continue.pdb
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\10Break_Continue\obj\Debug\net6.0\10Break_Continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\10Break_Continue\obj\Debug\net6.0\10Break_Continue.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\10Break_Continue\obj\Debug\net6.0\10Break_Continue.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\10Break_Continue\obj\Debug\net6.0\10Break_Continue.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\10Break_Continue\obj\Debug\net6.0\10Break_Continue.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\10Break_Continue\obj\Debug\net6.0\10Break_Continue.dll
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\10Break_Continue\obj\Debug\net6.0\refint\10Break_Continue.dll
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\10Break_Continue\obj\Debug\net6.0\10Break_Continue.pdb
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\10Break_Continue\obj\Debug\net6.0\10Break_Continue.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\EstruturasDeControle\10Break_Continue\obj\Debug\net6.0\ref\10Break_Continue.dll

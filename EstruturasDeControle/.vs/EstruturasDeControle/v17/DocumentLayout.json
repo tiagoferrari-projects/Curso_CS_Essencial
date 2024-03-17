@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\EstruturasDeControle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A453AA3-3A07-41E8-865C-B00111315A58}|8Repeticao_For\\8Repeticao_For.csproj|c:\\users\\tiago\\onedrive\\documentos\\curso_cs_essencial\\estruturasdecontrole\\8repeticao_for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A453AA3-3A07-41E8-865C-B00111315A58}|8Repeticao_For\\8Repeticao_For.csproj|solutionrelative:8repeticao_for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1AB9AED4-589E-44E8-BE20-788DAF862AF6}|10Break_Continue\\10Break_Continue.csproj|c:\\users\\tiago\\onedrive\\documentos\\curso_cs_essencial\\estruturasdecontrole\\10break_continue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB9AED4-589E-44E8-BE20-788DAF862AF6}|10Break_Continue\\10Break_Continue.csproj|solutionrelative:10break_continue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\EstruturasDeControle\\8Repeticao_For\\Program.cs",
-              "RelativeDocumentMoniker": "8Repeticao_For\\Program.cs",
-              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\EstruturasDeControle\\8Repeticao_For\\Program.cs",
-              "RelativeToolTip": "8Repeticao_For\\Program.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAADwAAAAFAAAA",
+              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\EstruturasDeControle\\10Break_Continue\\Program.cs",
+              "RelativeDocumentMoniker": "10Break_Continue\\Program.cs",
+              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\EstruturasDeControle\\10Break_Continue\\Program.cs",
+              "RelativeToolTip": "10Break_Continue\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACcAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T14:28:51.648Z",
+              "WhenOpened": "2024-03-17T13:59:20.559Z",
               "EditorCaption": ""
             }
           ]
