@@ -1,4 +1,4 @@
-﻿Console.WriteLine(" -- EXERCÍCIO 01 --");
+﻿Console.WriteLine(" -- EXERCÍCIO 02 --");
 
 Console.WriteLine("\n2- Escreva um programa para calcular a raiz da equação quadrática : ax² + bx + c = 0" +
     "\r\n- Considere a, b e c números inteiros (positivos, negativos e o zero);" +
