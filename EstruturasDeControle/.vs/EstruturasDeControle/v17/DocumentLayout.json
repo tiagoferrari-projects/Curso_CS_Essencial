@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\EstruturasDeControle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF31A979-86BF-4490-9982-42020E4B6657}|Exercicio_05\\Exercicio_05.csproj|c:\\users\\tiago\\onedrive\\documentos\\curso_cs_essencial\\estruturasdecontrole\\exercicio_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF31A979-86BF-4490-9982-42020E4B6657}|Exercicio_05\\Exercicio_05.csproj|solutionrelative:exercicio_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{491EF479-922C-42CE-8CFF-0477E7354C36}|Exercicio_06\\Exercicio_06.csproj|c:\\users\\tiago\\onedrive\\documentos\\curso_cs_essencial\\estruturasdecontrole\\exercicio_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491EF479-922C-42CE-8CFF-0477E7354C36}|Exercicio_06\\Exercicio_06.csproj|solutionrelative:exercicio_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\EstruturasDeControle\\Exercicio_05\\Program.cs",
-              "RelativeDocumentMoniker": "Exercicio_05\\Program.cs",
-              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\EstruturasDeControle\\Exercicio_05\\Program.cs",
-              "RelativeToolTip": "Exercicio_05\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\EstruturasDeControle\\Exercicio_06\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio_06\\Program.cs",
+              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\EstruturasDeControle\\Exercicio_06\\Program.cs",
+              "RelativeToolTip": "Exercicio_06\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAABQAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T22:28:40.851Z",
+              "WhenOpened": "2024-03-18T02:42:14.97Z",
               "EditorCaption": ""
             }
           ]
