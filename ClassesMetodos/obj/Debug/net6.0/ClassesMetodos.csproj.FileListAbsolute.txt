@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\bin\Debug\net6.0\ClassesMetodos.exe
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\bin\Debug\net6.0\ClassesMetodos.deps.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\bin\Debug\net6.0\ClassesMetodos.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\bin\Debug\net6.0\ClassesMetodos.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\bin\Debug\net6.0\ClassesMetodos.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\obj\Debug\net6.0\ClassesMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\obj\Debug\net6.0\ClassesMetodos.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\obj\Debug\net6.0\ClassesMetodos.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\obj\Debug\net6.0\ClassesMetodos.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\obj\Debug\net6.0\ClassesMetodos.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\obj\Debug\net6.0\ClassesMetodos.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\obj\Debug\net6.0\refint\ClassesMetodos.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\obj\Debug\net6.0\ClassesMetodos.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\obj\Debug\net6.0\ClassesMetodos.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\obj\Debug\net6.0\ref\ClassesMetodos.dll

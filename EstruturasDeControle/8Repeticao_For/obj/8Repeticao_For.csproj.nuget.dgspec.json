@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\EstruturasDeControle\\8Repeticao_For\\8Repeticao_For.csproj": {}
+    "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\EstruturasDeControle\\8Repeticao_For\\8Repeticao_For.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\EstruturasDeControle\\8Repeticao_For\\8Repeticao_For.csproj": {
+    "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\EstruturasDeControle\\8Repeticao_For\\8Repeticao_For.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\EstruturasDeControle\\8Repeticao_For\\8Repeticao_For.csproj",
+        "projectUniqueName": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\EstruturasDeControle\\8Repeticao_For\\8Repeticao_For.csproj",
         "projectName": "8Repeticao_For",
-        "projectPath": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\EstruturasDeControle\\8Repeticao_For\\8Repeticao_For.csproj",
+        "projectPath": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\EstruturasDeControle\\8Repeticao_For\\8Repeticao_For.csproj",
         "packagesPath": "C:\\Users\\tiago\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\EstruturasDeControle\\8Repeticao_For\\obj\\",
+        "outputPath": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\EstruturasDeControle\\8Repeticao_For\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\tiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
