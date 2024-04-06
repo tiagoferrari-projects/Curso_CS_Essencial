@@ -22,15 +22,27 @@
 
 #region "Alocação de Memória"
 
-Pessoa p1 = new Pessoa();
+//Pessoa p1 = new Pessoa();
+//p1.nome = "Maria";
+//p1.idade = 25;
+//p1.sexo = "Feminino";
+
+//Console.WriteLine($"{p1.nome} - {p1.idade} - {p1.sexo}");
+
+//Pessoa p2 = p1;
+//Console.WriteLine($"{p2.nome} - {p2.idade} - {p2.sexo}");
+
+#endregion
+
+#region "Objeto"
+
+// forma diferente a partir do C# 10
+Pessoa p1 = new();
 p1.nome = "Maria";
 p1.idade = 25;
 p1.sexo = "Feminino";
 
 Console.WriteLine($"{p1.nome} - {p1.idade} - {p1.sexo}");
-
-Pessoa p2 = p1;
-Console.WriteLine($"{p2.nome} - {p2.idade} - {p2.sexo}");
 
 #endregion
 

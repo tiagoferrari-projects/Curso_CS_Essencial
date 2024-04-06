@@ -1,10 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\ClassesMetodos\\",
+  "WorkspaceRootPath": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\ClassesMetodos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{15DD5849-3762-4A2B-AE72-736F6D2D6943}|ClassesMetodos.csproj|c:\\users\\tiago\\onedrive\\documentos\\github\\curso_cs_essencial\\classesmetodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15DD5849-3762-4A2B-AE72-736F6D2D6943}|ClassesMetodos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D68D2DD-DDAB-458B-BBC3-201E5964A67C}|..\\2Metodos\\2Metodos.csproj|c:\\users\\tiago\\onedrive\\documentos\\curso_cs_essencial\\2metodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF3E065-943B-43F7-B615-8027BCDACB02}|..\\1Classes\\1Classes.csproj|c:\\users\\tiago\\onedrive\\documentos\\curso_cs_essencial\\1classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +16,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\ClassesMetodos\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\ClassesMetodos\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T16:03:15.713Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -44,6 +33,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\2Metodos\\Program.cs",
+              "RelativeDocumentMoniker": "..\\2Metodos\\Program.cs",
+              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\2Metodos\\Program.cs",
+              "RelativeToolTip": "..\\2Metodos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T04:07:22.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\1Classes\\Program.cs",
+              "RelativeDocumentMoniker": "..\\1Classes\\Program.cs",
+              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\1Classes\\Program.cs",
+              "RelativeToolTip": "..\\1Classes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T04:01:06.272Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\ArrayValores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7F35BF-BCB5-4BA4-ABAC-29F4D6E218C9}|Fila\\Fila.csproj|c:\\users\\tiago\\onedrive\\documentos\\curso_cs_essencial\\arrayvalores\\fila\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7F35BF-BCB5-4BA4-ABAC-29F4D6E218C9}|Fila\\Fila.csproj|solutionrelative:fila\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFCAA77A-4302-474B-A351-E7CED8DDC5A4}|Pilha\\Pilha.csproj|c:\\users\\tiago\\onedrive\\documentos\\curso_cs_essencial\\arrayvalores\\pilha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFCAA77A-4302-474B-A351-E7CED8DDC5A4}|Pilha\\Pilha.csproj|solutionrelative:pilha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62561931-9EA8-4920-8C1D-E43D200403B5}|Lista\\Lista.csproj|C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\ArrayValores\\lista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62561931-9EA8-4920-8C1D-E43D200403B5}|Lista\\Lista.csproj|solutionrelative:lista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\ArrayValores\\Pilha\\Program.cs",
+              "RelativeDocumentMoniker": "Pilha\\Program.cs",
+              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\ArrayValores\\Pilha\\Program.cs",
+              "RelativeToolTip": "Pilha\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T00:55:41.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\ArrayValores\\Fila\\Program.cs",
+              "RelativeDocumentMoniker": "Fila\\Program.cs",
+              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\ArrayValores\\Fila\\Program.cs",
+              "RelativeToolTip": "Fila\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T00:02:37.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\ArrayValores\\Lista\\Program.cs",
+              "RelativeDocumentMoniker": "Lista\\Program.cs",
+              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\ArrayValores\\Lista\\Program.cs",
+              "RelativeToolTip": "Lista\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T22:32:35.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

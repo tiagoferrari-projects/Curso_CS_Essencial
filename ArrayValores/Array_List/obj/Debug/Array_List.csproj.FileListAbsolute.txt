@@ -1,0 +1,7 @@
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\ArrayValores\Array_List\bin\Debug\Array_List.exe.config
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\ArrayValores\Array_List\bin\Debug\Array_List.exe
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\ArrayValores\Array_List\bin\Debug\Array_List.pdb
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\ArrayValores\Array_List\obj\Debug\Array_List.csproj.AssemblyReference.cache
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\ArrayValores\Array_List\obj\Debug\Array_List.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\ArrayValores\Array_List\obj\Debug\Array_List.exe
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\ArrayValores\Array_List\obj\Debug\Array_List.pdb
