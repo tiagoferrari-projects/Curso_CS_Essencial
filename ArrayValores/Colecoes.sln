@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Detetive", "Detetive\Deteti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilaDeBanco", "FilaDeBanco\FilaDeBanco.csproj", "{27145B00-B006-43FE-A727-F4977A3DB258}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funcoes", "Funcoes\Funcoes.csproj", "{AE16D9FA-6A66-44D1-BCC3-973800D7258E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{27145B00-B006-43FE-A727-F4977A3DB258}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27145B00-B006-43FE-A727-F4977A3DB258}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27145B00-B006-43FE-A727-F4977A3DB258}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE16D9FA-6A66-44D1-BCC3-973800D7258E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE16D9FA-6A66-44D1-BCC3-973800D7258E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE16D9FA-6A66-44D1-BCC3-973800D7258E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE16D9FA-6A66-44D1-BCC3-973800D7258E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

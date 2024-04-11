@@ -1,0 +1,7 @@
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\ArrayValores\Funcoes\bin\Debug\Funcoes.exe.config
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\ArrayValores\Funcoes\bin\Debug\Funcoes.exe
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\ArrayValores\Funcoes\bin\Debug\Funcoes.pdb
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\ArrayValores\Funcoes\obj\Debug\Funcoes.csproj.AssemblyReference.cache
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\ArrayValores\Funcoes\obj\Debug\Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\ArrayValores\Funcoes\obj\Debug\Funcoes.exe
+C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\ArrayValores\Funcoes\obj\Debug\Funcoes.pdb
