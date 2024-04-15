@@ -1,7 +1,0 @@
-C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\ArrayValores\Lista\bin\Debug\Lista.exe.config
-C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\ArrayValores\Lista\bin\Debug\Lista.exe
-C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\ArrayValores\Lista\bin\Debug\Lista.pdb
-C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\ArrayValores\Lista\obj\Debug\Lista.csproj.AssemblyReference.cache
-C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\ArrayValores\Lista\obj\Debug\Lista.csproj.CoreCompileInputs.cache
-C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\ArrayValores\Lista\obj\Debug\Lista.exe
-C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\ArrayValores\Lista\obj\Debug\Lista.pdb

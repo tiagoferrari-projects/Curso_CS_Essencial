@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\ClassesMetodos\\",
+  "WorkspaceRootPath": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\ClassesMetodos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0966B4FB-226A-4796-B8FB-5E72D461021C}|4MetodosParametros\\4MetodosParametros.csproj|c:\\users\\tiago\\onedrive\\documentos\\curso_cs_essencial\\classesmetodos\\4metodosparametros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0966B4FB-226A-4796-B8FB-5E72D461021C}|4MetodosParametros\\4MetodosParametros.csproj|c:\\users\\tiago\\onedrive\\documentos\\github\\curso_cs_essencial\\classesmetodos\\4metodosparametros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0966B4FB-226A-4796-B8FB-5E72D461021C}|4MetodosParametros\\4MetodosParametros.csproj|solutionrelative:4metodosparametros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\ClassesMetodos\\4MetodosParametros\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\ClassesMetodos\\4MetodosParametros\\Program.cs",
               "RelativeDocumentMoniker": "4MetodosParametros\\Program.cs",
-              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\ClassesMetodos\\4MetodosParametros\\Program.cs",
+              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\ClassesMetodos\\4MetodosParametros\\Program.cs",
               "RelativeToolTip": "4MetodosParametros\\Program.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwDQAAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-11T03:34:18.275Z",
               "EditorCaption": ""

@@ -26,7 +26,7 @@ public class Aluno
         aluno.Sexo = Console.ReadLine();
 
         Console.WriteLine("Aprovado (S)im (N)ão: ");
-        aluno.Aprovado = Console.ReadLine();
+        aluno.Aprovado = Console.ReadLine().ToUpper();
 
         Curso curso = new Curso();
         curso.Resultado(aluno);

@@ -1,7 +1,0 @@
-C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\ArrayValores\Detetive\bin\Debug\Detetive.exe.config
-C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\ArrayValores\Detetive\bin\Debug\Detetive.exe
-C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\ArrayValores\Detetive\bin\Debug\Detetive.pdb
-C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\ArrayValores\Detetive\obj\Debug\Detetive.csproj.AssemblyReference.cache
-C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\ArrayValores\Detetive\obj\Debug\Detetive.csproj.CoreCompileInputs.cache
-C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\ArrayValores\Detetive\obj\Debug\Detetive.exe
-C:\Users\tiago\OneDrive\Documentos\Curso_CS_Essencial\ArrayValores\Detetive\obj\Debug\Detetive.pdb
