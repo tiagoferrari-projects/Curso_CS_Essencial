@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "2Metodos/1.0.0": {
+      "5Construtores/1.0.0": {
         "runtime": {
-          "2Metodos.dll": {}
+          "5Construtores.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "2Metodos/1.0.0": {
+    "5Construtores/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
