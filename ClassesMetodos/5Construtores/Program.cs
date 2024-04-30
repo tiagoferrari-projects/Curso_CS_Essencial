@@ -1,5 +1,6 @@
 ﻿Console.WriteLine("## Construtores ##\n");
 
+//Aluno aluno = new Aluno("Maria", 29, "feminino", "S");
 Aluno aluno = new Aluno("Maria", 29, "feminino", "S");
 
 Console.WriteLine(aluno.Nome == null ? "null" : aluno.Nome);
@@ -10,9 +11,16 @@ Console.WriteLine(aluno.Aprovado == null ? "null" : aluno.Aprovado);
 Console.ReadKey();
 public class Aluno
 {
-    public Aluno(string nome, int idade, string sexo, string aprovado)
+    // mais de um construtor
+    //public Aluno(string nome)
+    //{
+    //    Nome = nome;
+    //}
+
+    // expression body
+    public Aluno(string nome) => Nome = nome;
+    public Aluno(string nome, int idade, string sexo, string aprovado) : this(nome)
     {
-        Nome = nome;
         Idade = idade;
         Sexo = sexo;
         Aprovado = aprovado;
