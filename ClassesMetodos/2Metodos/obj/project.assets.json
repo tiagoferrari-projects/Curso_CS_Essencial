@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\tiago\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\tiago\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\ClassesMetodos\\2Metodos\\2Metodos.csproj",
+      "projectUniqueName": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\ClassesMetodos\\2Metodos\\2Metodos.csproj",
       "projectName": "2Metodos",
-      "projectPath": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\ClassesMetodos\\2Metodos\\2Metodos.csproj",
+      "projectPath": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\ClassesMetodos\\2Metodos\\2Metodos.csproj",
       "packagesPath": "C:\\Users\\tiago\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\ClassesMetodos\\2Metodos\\obj\\",
+      "outputPath": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\ClassesMetodos\\2Metodos\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\tiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
