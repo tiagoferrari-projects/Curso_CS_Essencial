@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\8MetodosComRetornoExemplo\bin\Debug\net6.0\8MetodosComRetornoExemplo.exe
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\8MetodosComRetornoExemplo\bin\Debug\net6.0\8MetodosComRetornoExemplo.deps.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\8MetodosComRetornoExemplo\bin\Debug\net6.0\8MetodosComRetornoExemplo.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\8MetodosComRetornoExemplo\bin\Debug\net6.0\8MetodosComRetornoExemplo.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\8MetodosComRetornoExemplo\bin\Debug\net6.0\8MetodosComRetornoExemplo.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\8MetodosComRetornoExemplo\obj\Debug\net6.0\8MetodosComRetornoExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\8MetodosComRetornoExemplo\obj\Debug\net6.0\8MetodosComRetornoExemplo.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\8MetodosComRetornoExemplo\obj\Debug\net6.0\8MetodosComRetornoExemplo.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\8MetodosComRetornoExemplo\obj\Debug\net6.0\8MetodosComRetornoExemplo.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\8MetodosComRetornoExemplo\obj\Debug\net6.0\8MetodosComRetornoExemplo.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\8MetodosComRetornoExemplo\obj\Debug\net6.0\8MetodosComRetornoExemplo.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\8MetodosComRetornoExemplo\obj\Debug\net6.0\refint\8MetodosComRetornoExemplo.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\8MetodosComRetornoExemplo\obj\Debug\net6.0\8MetodosComRetornoExemplo.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\8MetodosComRetornoExemplo\obj\Debug\net6.0\8MetodosComRetornoExemplo.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\8MetodosComRetornoExemplo\obj\Debug\net6.0\ref\8MetodosComRetornoExemplo.dll

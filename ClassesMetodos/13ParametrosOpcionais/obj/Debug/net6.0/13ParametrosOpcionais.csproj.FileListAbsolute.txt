@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\13ParametrosOpcionais\bin\Debug\net6.0\13ParametrosOpcionais.exe
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\13ParametrosOpcionais\bin\Debug\net6.0\13ParametrosOpcionais.deps.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\13ParametrosOpcionais\bin\Debug\net6.0\13ParametrosOpcionais.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\13ParametrosOpcionais\bin\Debug\net6.0\13ParametrosOpcionais.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\13ParametrosOpcionais\bin\Debug\net6.0\13ParametrosOpcionais.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\13ParametrosOpcionais\obj\Debug\net6.0\13ParametrosOpcionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\13ParametrosOpcionais\obj\Debug\net6.0\13ParametrosOpcionais.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\13ParametrosOpcionais\obj\Debug\net6.0\13ParametrosOpcionais.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\13ParametrosOpcionais\obj\Debug\net6.0\13ParametrosOpcionais.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\13ParametrosOpcionais\obj\Debug\net6.0\13ParametrosOpcionais.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\13ParametrosOpcionais\obj\Debug\net6.0\13ParametrosOpcionais.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\13ParametrosOpcionais\obj\Debug\net6.0\refint\13ParametrosOpcionais.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\13ParametrosOpcionais\obj\Debug\net6.0\13ParametrosOpcionais.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\13ParametrosOpcionais\obj\Debug\net6.0\13ParametrosOpcionais.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\13ParametrosOpcionais\obj\Debug\net6.0\ref\13ParametrosOpcionais.dll

@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\15CamposEstaticosExercicio\bin\Debug\net6.0\15CamposEstaticosExercicio.exe
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\15CamposEstaticosExercicio\bin\Debug\net6.0\15CamposEstaticosExercicio.deps.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\15CamposEstaticosExercicio\bin\Debug\net6.0\15CamposEstaticosExercicio.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\15CamposEstaticosExercicio\bin\Debug\net6.0\15CamposEstaticosExercicio.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\15CamposEstaticosExercicio\bin\Debug\net6.0\15CamposEstaticosExercicio.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\15CamposEstaticosExercicio\obj\Debug\net6.0\15CamposEstaticosExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\15CamposEstaticosExercicio\obj\Debug\net6.0\15CamposEstaticosExercicio.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\15CamposEstaticosExercicio\obj\Debug\net6.0\15CamposEstaticosExercicio.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\15CamposEstaticosExercicio\obj\Debug\net6.0\15CamposEstaticosExercicio.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\15CamposEstaticosExercicio\obj\Debug\net6.0\15CamposEstaticosExercicio.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\15CamposEstaticosExercicio\obj\Debug\net6.0\15CamposEstaticosExercicio.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\15CamposEstaticosExercicio\obj\Debug\net6.0\refint\15CamposEstaticosExercicio.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\15CamposEstaticosExercicio\obj\Debug\net6.0\15CamposEstaticosExercicio.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\15CamposEstaticosExercicio\obj\Debug\net6.0\15CamposEstaticosExercicio.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\15CamposEstaticosExercicio\obj\Debug\net6.0\ref\15CamposEstaticosExercicio.dll

@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\16ConstrutorEstatico\bin\Debug\net6.0\16ConstrutorEstatico.exe
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\16ConstrutorEstatico\bin\Debug\net6.0\16ConstrutorEstatico.deps.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\16ConstrutorEstatico\bin\Debug\net6.0\16ConstrutorEstatico.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\16ConstrutorEstatico\bin\Debug\net6.0\16ConstrutorEstatico.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\16ConstrutorEstatico\bin\Debug\net6.0\16ConstrutorEstatico.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\16ConstrutorEstatico\obj\Debug\net6.0\16ConstrutorEstatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\16ConstrutorEstatico\obj\Debug\net6.0\16ConstrutorEstatico.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\16ConstrutorEstatico\obj\Debug\net6.0\16ConstrutorEstatico.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\16ConstrutorEstatico\obj\Debug\net6.0\16ConstrutorEstatico.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\16ConstrutorEstatico\obj\Debug\net6.0\16ConstrutorEstatico.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\16ConstrutorEstatico\obj\Debug\net6.0\16ConstrutorEstatico.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\16ConstrutorEstatico\obj\Debug\net6.0\refint\16ConstrutorEstatico.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\16ConstrutorEstatico\obj\Debug\net6.0\16ConstrutorEstatico.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\16ConstrutorEstatico\obj\Debug\net6.0\16ConstrutorEstatico.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\16ConstrutorEstatico\obj\Debug\net6.0\ref\16ConstrutorEstatico.dll

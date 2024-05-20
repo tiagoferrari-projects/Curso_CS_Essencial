@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\10PassandoArgumentoPorReferencia\bin\Debug\net6.0\10PassandoArgumentoPorReferencia.exe
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\10PassandoArgumentoPorReferencia\bin\Debug\net6.0\10PassandoArgumentoPorReferencia.deps.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\10PassandoArgumentoPorReferencia\bin\Debug\net6.0\10PassandoArgumentoPorReferencia.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\10PassandoArgumentoPorReferencia\bin\Debug\net6.0\10PassandoArgumentoPorReferencia.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\10PassandoArgumentoPorReferencia\bin\Debug\net6.0\10PassandoArgumentoPorReferencia.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\10PassandoArgumentoPorReferencia\obj\Debug\net6.0\10PassandoArgumentoPorReferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\10PassandoArgumentoPorReferencia\obj\Debug\net6.0\10PassandoArgumentoPorReferencia.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\10PassandoArgumentoPorReferencia\obj\Debug\net6.0\10PassandoArgumentoPorReferencia.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\10PassandoArgumentoPorReferencia\obj\Debug\net6.0\10PassandoArgumentoPorReferencia.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\10PassandoArgumentoPorReferencia\obj\Debug\net6.0\10PassandoArgumentoPorReferencia.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\10PassandoArgumentoPorReferencia\obj\Debug\net6.0\10PassandoArgumentoPorReferencia.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\10PassandoArgumentoPorReferencia\obj\Debug\net6.0\refint\10PassandoArgumentoPorReferencia.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\10PassandoArgumentoPorReferencia\obj\Debug\net6.0\10PassandoArgumentoPorReferencia.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\10PassandoArgumentoPorReferencia\obj\Debug\net6.0\10PassandoArgumentoPorReferencia.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\10PassandoArgumentoPorReferencia\obj\Debug\net6.0\ref\10PassandoArgumentoPorReferencia.dll

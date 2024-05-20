@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "97WAzWUxhwYoPOkKL03Hjxls8ws1Z046GBEiaPF7C+H+lFlVPC1lDjJv4kRs2c+B7zuxqkBRPeSKKb2w0rEgwQ==",
+  "dgSpecHash": "JN9eM6sFgEGpEkL3nlLHAHgYKvb+KqMA9s6vVYnaXaUrIFHU2fWyO/VOoRT8csXn443oIKhIPqDr+sUzBemFQQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\ClassesMetodos\\2Metodos\\2Metodos.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\tiago\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
   "logs": []
 }

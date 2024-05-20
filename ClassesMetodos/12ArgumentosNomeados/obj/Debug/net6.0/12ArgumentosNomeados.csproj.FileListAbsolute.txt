@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\12ArgumentosNomeados\bin\Debug\net6.0\12ArgumentosNomeados.exe
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\12ArgumentosNomeados\bin\Debug\net6.0\12ArgumentosNomeados.deps.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\12ArgumentosNomeados\bin\Debug\net6.0\12ArgumentosNomeados.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\12ArgumentosNomeados\bin\Debug\net6.0\12ArgumentosNomeados.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\12ArgumentosNomeados\bin\Debug\net6.0\12ArgumentosNomeados.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\12ArgumentosNomeados\obj\Debug\net6.0\12ArgumentosNomeados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\12ArgumentosNomeados\obj\Debug\net6.0\12ArgumentosNomeados.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\12ArgumentosNomeados\obj\Debug\net6.0\12ArgumentosNomeados.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\12ArgumentosNomeados\obj\Debug\net6.0\12ArgumentosNomeados.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\12ArgumentosNomeados\obj\Debug\net6.0\12ArgumentosNomeados.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\12ArgumentosNomeados\obj\Debug\net6.0\12ArgumentosNomeados.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\12ArgumentosNomeados\obj\Debug\net6.0\refint\12ArgumentosNomeados.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\12ArgumentosNomeados\obj\Debug\net6.0\12ArgumentosNomeados.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\12ArgumentosNomeados\obj\Debug\net6.0\12ArgumentosNomeados.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\12ArgumentosNomeados\obj\Debug\net6.0\ref\12ArgumentosNomeados.dll

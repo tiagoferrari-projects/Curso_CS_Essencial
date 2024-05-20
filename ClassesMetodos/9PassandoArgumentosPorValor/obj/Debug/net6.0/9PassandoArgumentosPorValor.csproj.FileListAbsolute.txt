@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\9PassandoArgumentosPorValor\bin\Debug\net6.0\9PassandoArgumentosPorValor.exe
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\9PassandoArgumentosPorValor\bin\Debug\net6.0\9PassandoArgumentosPorValor.deps.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\9PassandoArgumentosPorValor\bin\Debug\net6.0\9PassandoArgumentosPorValor.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\9PassandoArgumentosPorValor\bin\Debug\net6.0\9PassandoArgumentosPorValor.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\9PassandoArgumentosPorValor\bin\Debug\net6.0\9PassandoArgumentosPorValor.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\9PassandoArgumentosPorValor\obj\Debug\net6.0\9PassandoArgumentosPorValor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\9PassandoArgumentosPorValor\obj\Debug\net6.0\9PassandoArgumentosPorValor.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\9PassandoArgumentosPorValor\obj\Debug\net6.0\9PassandoArgumentosPorValor.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\9PassandoArgumentosPorValor\obj\Debug\net6.0\9PassandoArgumentosPorValor.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\9PassandoArgumentosPorValor\obj\Debug\net6.0\9PassandoArgumentosPorValor.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\9PassandoArgumentosPorValor\obj\Debug\net6.0\9PassandoArgumentosPorValor.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\9PassandoArgumentosPorValor\obj\Debug\net6.0\refint\9PassandoArgumentosPorValor.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\9PassandoArgumentosPorValor\obj\Debug\net6.0\9PassandoArgumentosPorValor.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\9PassandoArgumentosPorValor\obj\Debug\net6.0\9PassandoArgumentosPorValor.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\9PassandoArgumentosPorValor\obj\Debug\net6.0\ref\9PassandoArgumentosPorValor.dll

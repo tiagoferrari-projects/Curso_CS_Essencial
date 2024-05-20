@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\17Propriedades\bin\Debug\net8.0\17Propriedades.exe
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\17Propriedades\bin\Debug\net8.0\17Propriedades.deps.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\17Propriedades\bin\Debug\net8.0\17Propriedades.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\17Propriedades\bin\Debug\net8.0\17Propriedades.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\17Propriedades\bin\Debug\net8.0\17Propriedades.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\17Propriedades\obj\Debug\net8.0\17Propriedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\17Propriedades\obj\Debug\net8.0\17Propriedades.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\17Propriedades\obj\Debug\net8.0\17Propriedades.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\17Propriedades\obj\Debug\net8.0\17Propriedades.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\17Propriedades\obj\Debug\net8.0\17Propriedades.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\17Propriedades\obj\Debug\net8.0\17Propriedades.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\17Propriedades\obj\Debug\net8.0\refint\17Propriedades.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\17Propriedades\obj\Debug\net8.0\17Propriedades.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\17Propriedades\obj\Debug\net8.0\17Propriedades.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\17Propriedades\obj\Debug\net8.0\ref\17Propriedades.dll

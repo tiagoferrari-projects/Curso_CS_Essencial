@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\14MetodosEstaticos\bin\Debug\net6.0\14MetodosEstaticos.exe
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\14MetodosEstaticos\bin\Debug\net6.0\14MetodosEstaticos.deps.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\14MetodosEstaticos\bin\Debug\net6.0\14MetodosEstaticos.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\14MetodosEstaticos\bin\Debug\net6.0\14MetodosEstaticos.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\14MetodosEstaticos\bin\Debug\net6.0\14MetodosEstaticos.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\14MetodosEstaticos\obj\Debug\net6.0\14MetodosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\14MetodosEstaticos\obj\Debug\net6.0\14MetodosEstaticos.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\14MetodosEstaticos\obj\Debug\net6.0\14MetodosEstaticos.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\14MetodosEstaticos\obj\Debug\net6.0\14MetodosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\14MetodosEstaticos\obj\Debug\net6.0\14MetodosEstaticos.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\14MetodosEstaticos\obj\Debug\net6.0\14MetodosEstaticos.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\14MetodosEstaticos\obj\Debug\net6.0\refint\14MetodosEstaticos.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\14MetodosEstaticos\obj\Debug\net6.0\14MetodosEstaticos.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\14MetodosEstaticos\obj\Debug\net6.0\14MetodosEstaticos.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\14MetodosEstaticos\obj\Debug\net6.0\ref\14MetodosEstaticos.dll
