@@ -43,9 +43,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16ConstrutorEstatico", "16C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17Propriedades", "17Propriedades\17Propriedades.csproj", "{A108CD1E-8DE5-433E-89F4-1811EECE89C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18Structs", "18Structs\18Structs.csproj", "{F64E0AAC-436D-43AB-A5CC-91823281C264}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18Structs", "18Structs\18Structs.csproj", "{F64E0AAC-436D-43AB-A5CC-91823281C264}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19Enum", "19Enum\19Enum.csproj", "{157A1A74-F772-42DF-A0E7-0D3AF8020BA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "19Enum", "19Enum\19Enum.csproj", "{157A1A74-F772-42DF-A0E7-0D3AF8020BA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20ModificadoresAcesso", "20ModificadoresAcesso\20ModificadoresAcesso.csproj", "{B033BCF0-19B8-420F-8767-F332AD927838}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,10 @@ Global
 		{157A1A74-F772-42DF-A0E7-0D3AF8020BA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{157A1A74-F772-42DF-A0E7-0D3AF8020BA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{157A1A74-F772-42DF-A0E7-0D3AF8020BA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B033BCF0-19B8-420F-8767-F332AD927838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B033BCF0-19B8-420F-8767-F332AD927838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B033BCF0-19B8-420F-8767-F332AD927838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B033BCF0-19B8-420F-8767-F332AD927838}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
