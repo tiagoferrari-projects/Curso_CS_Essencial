@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\ClassesMetodos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9117ED53-57E3-4AA3-8834-771AC12EBE22}|21TratamentoErros\\21TratamentoErros.csproj|c:\\users\\tiago\\onedrive\\documentos\\github\\curso_cs_essencial\\classesmetodos\\21tratamentoerros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9117ED53-57E3-4AA3-8834-771AC12EBE22}|21TratamentoErros\\21TratamentoErros.csproj|solutionrelative:21tratamentoerros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B033BCF0-19B8-420F-8767-F332AD927838}|20ModificadoresAcesso\\20ModificadoresAcesso.csproj|c:\\users\\tiago\\onedrive\\documentos\\github\\curso_cs_essencial\\classesmetodos\\20modificadoresacesso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B033BCF0-19B8-420F-8767-F332AD927838}|20ModificadoresAcesso\\20ModificadoresAcesso.csproj|solutionrelative:20modificadoresacesso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -35,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\ClassesMetodos\\21TratamentoErros\\Program.cs",
+              "RelativeDocumentMoniker": "21TratamentoErros\\Program.cs",
+              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\ClassesMetodos\\21TratamentoErros\\Program.cs",
+              "RelativeToolTip": "21TratamentoErros\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T02:11:08.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\ClassesMetodos\\20ModificadoresAcesso\\Program.cs",
               "RelativeDocumentMoniker": "20ModificadoresAcesso\\Program.cs",

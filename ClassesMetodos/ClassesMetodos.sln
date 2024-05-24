@@ -47,7 +47,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18Structs", "18Structs\18St
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "19Enum", "19Enum\19Enum.csproj", "{157A1A74-F772-42DF-A0E7-0D3AF8020BA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20ModificadoresAcesso", "20ModificadoresAcesso\20ModificadoresAcesso.csproj", "{B033BCF0-19B8-420F-8767-F332AD927838}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20ModificadoresAcesso", "20ModificadoresAcesso\20ModificadoresAcesso.csproj", "{B033BCF0-19B8-420F-8767-F332AD927838}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21TratamentoErros", "21TratamentoErros\21TratamentoErros.csproj", "{9117ED53-57E3-4AA3-8834-771AC12EBE22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{B033BCF0-19B8-420F-8767-F332AD927838}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B033BCF0-19B8-420F-8767-F332AD927838}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B033BCF0-19B8-420F-8767-F332AD927838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9117ED53-57E3-4AA3-8834-771AC12EBE22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9117ED53-57E3-4AA3-8834-771AC12EBE22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9117ED53-57E3-4AA3-8834-771AC12EBE22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9117ED53-57E3-4AA3-8834-771AC12EBE22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

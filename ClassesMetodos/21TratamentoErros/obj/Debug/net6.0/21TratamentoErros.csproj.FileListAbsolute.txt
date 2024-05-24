@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\21TratamentoErros\bin\Debug\net6.0\21TratamentoErros.exe
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\21TratamentoErros\bin\Debug\net6.0\21TratamentoErros.deps.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\21TratamentoErros\bin\Debug\net6.0\21TratamentoErros.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\21TratamentoErros\bin\Debug\net6.0\21TratamentoErros.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\21TratamentoErros\bin\Debug\net6.0\21TratamentoErros.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\21TratamentoErros\obj\Debug\net6.0\21TratamentoErros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\21TratamentoErros\obj\Debug\net6.0\21TratamentoErros.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\21TratamentoErros\obj\Debug\net6.0\21TratamentoErros.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\21TratamentoErros\obj\Debug\net6.0\21TratamentoErros.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\21TratamentoErros\obj\Debug\net6.0\21TratamentoErros.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\21TratamentoErros\obj\Debug\net6.0\21TratamentoErros.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\21TratamentoErros\obj\Debug\net6.0\refint\21TratamentoErros.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\21TratamentoErros\obj\Debug\net6.0\21TratamentoErros.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\21TratamentoErros\obj\Debug\net6.0\21TratamentoErros.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\21TratamentoErros\obj\Debug\net6.0\ref\21TratamentoErros.dll
