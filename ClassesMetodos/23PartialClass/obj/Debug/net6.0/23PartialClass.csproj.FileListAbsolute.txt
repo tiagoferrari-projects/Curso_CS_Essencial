@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\23PartialClass\bin\Debug\net6.0\23PartialClass.exe
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\23PartialClass\bin\Debug\net6.0\23PartialClass.deps.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\23PartialClass\bin\Debug\net6.0\23PartialClass.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\23PartialClass\bin\Debug\net6.0\23PartialClass.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\23PartialClass\bin\Debug\net6.0\23PartialClass.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\23PartialClass\obj\Debug\net6.0\23PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\23PartialClass\obj\Debug\net6.0\23PartialClass.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\23PartialClass\obj\Debug\net6.0\23PartialClass.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\23PartialClass\obj\Debug\net6.0\23PartialClass.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\23PartialClass\obj\Debug\net6.0\23PartialClass.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\23PartialClass\obj\Debug\net6.0\23PartialClass.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\23PartialClass\obj\Debug\net6.0\refint\23PartialClass.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\23PartialClass\obj\Debug\net6.0\23PartialClass.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\23PartialClass\obj\Debug\net6.0\23PartialClass.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\23PartialClass\obj\Debug\net6.0\ref\23PartialClass.dll
