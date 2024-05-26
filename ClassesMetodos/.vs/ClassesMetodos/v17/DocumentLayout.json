@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\ClassesMetodos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8570D53C-67FC-4272-A9B4-0C7D655E7619}|22TiposAnonimos\\22TiposAnonimos.csproj|c:\\users\\tiago\\onedrive\\documentos\\github\\curso_cs_essencial\\classesmetodos\\22tiposanonimos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8570D53C-67FC-4272-A9B4-0C7D655E7619}|22TiposAnonimos\\22TiposAnonimos.csproj|solutionrelative:22tiposanonimos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9117ED53-57E3-4AA3-8834-771AC12EBE22}|21TratamentoErros\\21TratamentoErros.csproj|c:\\users\\tiago\\onedrive\\documentos\\github\\curso_cs_essencial\\classesmetodos\\21tratamentoerros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9117ED53-57E3-4AA3-8834-771AC12EBE22}|21TratamentoErros\\21TratamentoErros.csproj|solutionrelative:21tratamentoerros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -40,6 +44,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\ClassesMetodos\\22TiposAnonimos\\Program.cs",
+              "RelativeDocumentMoniker": "22TiposAnonimos\\Program.cs",
+              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\ClassesMetodos\\22TiposAnonimos\\Program.cs",
+              "RelativeToolTip": "22TiposAnonimos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:54:01.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\ClassesMetodos\\21TratamentoErros\\Program.cs",
               "RelativeDocumentMoniker": "21TratamentoErros\\Program.cs",
               "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\ClassesMetodos\\21TratamentoErros\\Program.cs",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\ClassesMetodos\\20ModificadoresAcesso\\Program.cs",
               "RelativeDocumentMoniker": "20ModificadoresAcesso\\Program.cs",
@@ -59,8 +76,7 @@
               "RelativeToolTip": "20ModificadoresAcesso\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T02:35:30.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T02:35:30.257Z"
             }
           ]
         }

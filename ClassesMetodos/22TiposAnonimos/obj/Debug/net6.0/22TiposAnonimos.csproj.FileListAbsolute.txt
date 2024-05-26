@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\22TiposAnonimos\bin\Debug\net6.0\22TiposAnonimos.exe
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\22TiposAnonimos\bin\Debug\net6.0\22TiposAnonimos.deps.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\22TiposAnonimos\bin\Debug\net6.0\22TiposAnonimos.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\22TiposAnonimos\bin\Debug\net6.0\22TiposAnonimos.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\22TiposAnonimos\bin\Debug\net6.0\22TiposAnonimos.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\22TiposAnonimos\obj\Debug\net6.0\22TiposAnonimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\22TiposAnonimos\obj\Debug\net6.0\22TiposAnonimos.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\22TiposAnonimos\obj\Debug\net6.0\22TiposAnonimos.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\22TiposAnonimos\obj\Debug\net6.0\22TiposAnonimos.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\22TiposAnonimos\obj\Debug\net6.0\22TiposAnonimos.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\22TiposAnonimos\obj\Debug\net6.0\22TiposAnonimos.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\22TiposAnonimos\obj\Debug\net6.0\refint\22TiposAnonimos.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\22TiposAnonimos\obj\Debug\net6.0\22TiposAnonimos.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\22TiposAnonimos\obj\Debug\net6.0\22TiposAnonimos.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\22TiposAnonimos\obj\Debug\net6.0\ref\22TiposAnonimos.dll
