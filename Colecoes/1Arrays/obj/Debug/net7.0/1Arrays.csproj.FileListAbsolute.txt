@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\1Arrays\bin\Debug\net7.0\1Arrays.exe
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\1Arrays\bin\Debug\net7.0\1Arrays.deps.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\1Arrays\bin\Debug\net7.0\1Arrays.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\1Arrays\bin\Debug\net7.0\1Arrays.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\1Arrays\bin\Debug\net7.0\1Arrays.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\1Arrays\obj\Debug\net7.0\1Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\1Arrays\obj\Debug\net7.0\1Arrays.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\1Arrays\obj\Debug\net7.0\1Arrays.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\1Arrays\obj\Debug\net7.0\1Arrays.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\1Arrays\obj\Debug\net7.0\1Arrays.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\1Arrays\obj\Debug\net7.0\1Arrays.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\1Arrays\obj\Debug\net7.0\refint\1Arrays.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\1Arrays\obj\Debug\net7.0\1Arrays.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\1Arrays\obj\Debug\net7.0\1Arrays.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\1Arrays\obj\Debug\net7.0\ref\1Arrays.dll

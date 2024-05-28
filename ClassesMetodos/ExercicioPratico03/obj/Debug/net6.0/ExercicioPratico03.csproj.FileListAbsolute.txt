@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\ExercicioPratico03\bin\Debug\net6.0\ExercicioPratico03.exe
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\ExercicioPratico03\bin\Debug\net6.0\ExercicioPratico03.deps.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\ExercicioPratico03\bin\Debug\net6.0\ExercicioPratico03.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\ExercicioPratico03\bin\Debug\net6.0\ExercicioPratico03.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\ExercicioPratico03\bin\Debug\net6.0\ExercicioPratico03.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\ExercicioPratico03\obj\Debug\net6.0\ExercicioPratico03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\ExercicioPratico03\obj\Debug\net6.0\ExercicioPratico03.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\ExercicioPratico03\obj\Debug\net6.0\ExercicioPratico03.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\ExercicioPratico03\obj\Debug\net6.0\ExercicioPratico03.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\ExercicioPratico03\obj\Debug\net6.0\ExercicioPratico03.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\ExercicioPratico03\obj\Debug\net6.0\ExercicioPratico03.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\ExercicioPratico03\obj\Debug\net6.0\refint\ExercicioPratico03.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\ExercicioPratico03\obj\Debug\net6.0\ExercicioPratico03.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\ExercicioPratico03\obj\Debug\net6.0\ExercicioPratico03.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ClassesMetodos\ExercicioPratico03\obj\Debug\net6.0\ref\ExercicioPratico03.dll
