@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\2ArrayExercicio\bin\Debug\net7.0\2ArrayExercicio.exe
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\2ArrayExercicio\bin\Debug\net7.0\2ArrayExercicio.deps.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\2ArrayExercicio\bin\Debug\net7.0\2ArrayExercicio.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\2ArrayExercicio\bin\Debug\net7.0\2ArrayExercicio.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\2ArrayExercicio\bin\Debug\net7.0\2ArrayExercicio.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\2ArrayExercicio\obj\Debug\net7.0\2ArrayExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\2ArrayExercicio\obj\Debug\net7.0\2ArrayExercicio.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\2ArrayExercicio\obj\Debug\net7.0\2ArrayExercicio.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\2ArrayExercicio\obj\Debug\net7.0\2ArrayExercicio.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\2ArrayExercicio\obj\Debug\net7.0\2ArrayExercicio.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\2ArrayExercicio\obj\Debug\net7.0\2ArrayExercicio.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\2ArrayExercicio\obj\Debug\net7.0\refint\2ArrayExercicio.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\2ArrayExercicio\obj\Debug\net7.0\2ArrayExercicio.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\2ArrayExercicio\obj\Debug\net7.0\2ArrayExercicio.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\2ArrayExercicio\obj\Debug\net7.0\ref\2ArrayExercicio.dll

@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("1Arrays")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("2ArrayExercicio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+937649a014eb3a551683f2e844517f343967015b")]
-[assembly: System.Reflection.AssemblyProductAttribute("1Arrays")]
-[assembly: System.Reflection.AssemblyTitleAttribute("1Arrays")]
+[assembly: System.Reflection.AssemblyProductAttribute("2ArrayExercicio")]
+[assembly: System.Reflection.AssemblyTitleAttribute("2ArrayExercicio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

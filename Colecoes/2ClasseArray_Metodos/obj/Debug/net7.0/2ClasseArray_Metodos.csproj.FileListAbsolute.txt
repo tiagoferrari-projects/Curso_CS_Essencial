@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\2ClasseArray_Metodos\bin\Debug\net7.0\2ClasseArray_Metodos.exe
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\2ClasseArray_Metodos\bin\Debug\net7.0\2ClasseArray_Metodos.deps.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\2ClasseArray_Metodos\bin\Debug\net7.0\2ClasseArray_Metodos.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\2ClasseArray_Metodos\bin\Debug\net7.0\2ClasseArray_Metodos.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\2ClasseArray_Metodos\bin\Debug\net7.0\2ClasseArray_Metodos.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\2ClasseArray_Metodos\obj\Debug\net7.0\2ClasseArray_Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\2ClasseArray_Metodos\obj\Debug\net7.0\2ClasseArray_Metodos.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\2ClasseArray_Metodos\obj\Debug\net7.0\2ClasseArray_Metodos.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\2ClasseArray_Metodos\obj\Debug\net7.0\2ClasseArray_Metodos.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\2ClasseArray_Metodos\obj\Debug\net7.0\2ClasseArray_Metodos.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\2ClasseArray_Metodos\obj\Debug\net7.0\2ClasseArray_Metodos.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\2ClasseArray_Metodos\obj\Debug\net7.0\refint\2ClasseArray_Metodos.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\2ClasseArray_Metodos\obj\Debug\net7.0\2ClasseArray_Metodos.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\2ClasseArray_Metodos\obj\Debug\net7.0\2ClasseArray_Metodos.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\2ClasseArray_Metodos\obj\Debug\net7.0\ref\2ClasseArray_Metodos.dll

@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1Arrays", "1Arrays\1Arrays.csproj", "{ACC8CAE9-E6BA-44AE-8B7C-C8A67D8CDCA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1Arrays", "1Arrays\1Arrays.csproj", "{ACC8CAE9-E6BA-44AE-8B7C-C8A67D8CDCA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10ClasseArray_Metodos", "10ClasseArray_Metodos\10ClasseArray_Metodos.csproj", "{3E7990B2-AE0E-489D-92BF-4CFC53238042}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2ArrayExercicio", "2ArrayExercicio\2ArrayExercicio.csproj", "{58136751-651E-4295-BA04-A2DE1E42898D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{ACC8CAE9-E6BA-44AE-8B7C-C8A67D8CDCA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACC8CAE9-E6BA-44AE-8B7C-C8A67D8CDCA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACC8CAE9-E6BA-44AE-8B7C-C8A67D8CDCA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E7990B2-AE0E-489D-92BF-4CFC53238042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E7990B2-AE0E-489D-92BF-4CFC53238042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E7990B2-AE0E-489D-92BF-4CFC53238042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E7990B2-AE0E-489D-92BF-4CFC53238042}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58136751-651E-4295-BA04-A2DE1E42898D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58136751-651E-4295-BA04-A2DE1E42898D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58136751-651E-4295-BA04-A2DE1E42898D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58136751-651E-4295-BA04-A2DE1E42898D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
