@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Lh+nCHODGWArNCxvX/AoW/t1hfSYJiqXjUBLTaU1tyhk9htvqdggdumVeEI0A60wSTJFvbm1F1v0Rpx3ZKQEcQ==",
+  "dgSpecHash": "mljxrBXccy4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\tiago\\OneDrive\\Documentos\\Curso_CS_Essencial\\Colecoes\\9Modificador_Params\\9Modificador_Params.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\Colecoes\\9Modificador_Params\\9Modificador_Params.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tiago\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.19\\microsoft.windowsdesktop.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.19\\microsoft.netcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.19\\microsoft.aspnetcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.19\\microsoft.netcore.app.host.win-x64.7.0.19.nupkg.sha512"
+  ],
   "logs": []
 }

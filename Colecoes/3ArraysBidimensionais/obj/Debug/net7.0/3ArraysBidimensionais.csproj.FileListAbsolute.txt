@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\3ArraysBidimensionais\bin\Debug\net7.0\3ArraysBidimensionais.exe
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\3ArraysBidimensionais\bin\Debug\net7.0\3ArraysBidimensionais.deps.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\3ArraysBidimensionais\bin\Debug\net7.0\3ArraysBidimensionais.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\3ArraysBidimensionais\bin\Debug\net7.0\3ArraysBidimensionais.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\3ArraysBidimensionais\bin\Debug\net7.0\3ArraysBidimensionais.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\3ArraysBidimensionais\obj\Debug\net7.0\3ArraysBidimensionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\3ArraysBidimensionais\obj\Debug\net7.0\3ArraysBidimensionais.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\3ArraysBidimensionais\obj\Debug\net7.0\3ArraysBidimensionais.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\3ArraysBidimensionais\obj\Debug\net7.0\3ArraysBidimensionais.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\3ArraysBidimensionais\obj\Debug\net7.0\3ArraysBidimensionais.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\3ArraysBidimensionais\obj\Debug\net7.0\3ArraysBidimensionais.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\3ArraysBidimensionais\obj\Debug\net7.0\refint\3ArraysBidimensionais.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\3ArraysBidimensionais\obj\Debug\net7.0\3ArraysBidimensionais.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\3ArraysBidimensionais\obj\Debug\net7.0\3ArraysBidimensionais.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\3ArraysBidimensionais\obj\Debug\net7.0\ref\3ArraysBidimensionais.dll
