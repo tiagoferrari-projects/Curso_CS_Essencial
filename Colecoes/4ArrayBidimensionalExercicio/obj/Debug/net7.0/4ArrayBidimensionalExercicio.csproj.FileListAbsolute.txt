@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\4ArrayBidimensionalExercicio\bin\Debug\net7.0\4ArrayBidimensionalExercicio.exe
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\4ArrayBidimensionalExercicio\bin\Debug\net7.0\4ArrayBidimensionalExercicio.deps.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\4ArrayBidimensionalExercicio\bin\Debug\net7.0\4ArrayBidimensionalExercicio.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\4ArrayBidimensionalExercicio\bin\Debug\net7.0\4ArrayBidimensionalExercicio.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\4ArrayBidimensionalExercicio\bin\Debug\net7.0\4ArrayBidimensionalExercicio.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\4ArrayBidimensionalExercicio\obj\Debug\net7.0\4ArrayBidimensionalExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\4ArrayBidimensionalExercicio\obj\Debug\net7.0\4ArrayBidimensionalExercicio.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\4ArrayBidimensionalExercicio\obj\Debug\net7.0\4ArrayBidimensionalExercicio.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\4ArrayBidimensionalExercicio\obj\Debug\net7.0\4ArrayBidimensionalExercicio.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\4ArrayBidimensionalExercicio\obj\Debug\net7.0\4ArrayBidimensionalExercicio.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\4ArrayBidimensionalExercicio\obj\Debug\net7.0\4ArrayBidimensionalExercicio.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\4ArrayBidimensionalExercicio\obj\Debug\net7.0\refint\4ArrayBidimensionalExercicio.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\4ArrayBidimensionalExercicio\obj\Debug\net7.0\4ArrayBidimensionalExercicio.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\4ArrayBidimensionalExercicio\obj\Debug\net7.0\4ArrayBidimensionalExercicio.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\4ArrayBidimensionalExercicio\obj\Debug\net7.0\ref\4ArrayBidimensionalExercicio.dll
