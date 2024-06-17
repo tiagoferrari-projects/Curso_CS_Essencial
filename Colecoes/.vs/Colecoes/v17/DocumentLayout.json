@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\Colecoes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B67C3F61-FE36-4AED-A102-D47789BADD97}|4ArrayBidimensionalExercicio\\4ArrayBidimensionalExercicio.csproj|c:\\users\\tiago\\onedrive\\documentos\\github\\curso_cs_essencial\\colecoes\\4arraybidimensionalexercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B67C3F61-FE36-4AED-A102-D47789BADD97}|4ArrayBidimensionalExercicio\\4ArrayBidimensionalExercicio.csproj|solutionrelative:4arraybidimensionalexercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F38365A8-461D-471C-94DB-BA05BA736BCD}|5ArrayList\\5ArrayList.csproj|c:\\users\\tiago\\onedrive\\documentos\\github\\curso_cs_essencial\\colecoes\\5arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38365A8-461D-471C-94DB-BA05BA736BCD}|5ArrayList\\5ArrayList.csproj|solutionrelative:5arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,13 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\Colecoes\\4ArrayBidimensionalExercicio\\Program.cs",
-              "RelativeDocumentMoniker": "4ArrayBidimensionalExercicio\\Program.cs",
-              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\Colecoes\\4ArrayBidimensionalExercicio\\Program.cs",
-              "RelativeToolTip": "4ArrayBidimensionalExercicio\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAYAAAA",
+              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\Colecoes\\5ArrayList\\Program.cs",
+              "RelativeDocumentMoniker": "5ArrayList\\Program.cs",
+              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\Colecoes\\5ArrayList\\Program.cs",
+              "RelativeToolTip": "5ArrayList\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T01:07:53.293Z",
+              "WhenOpened": "2024-06-17T00:04:34.651Z",
               "EditorCaption": ""
             }
           ]

@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9Modificador_Params", "9Mod
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3ArraysBidimensionais", "3ArraysBidimensionais\3ArraysBidimensionais.csproj", "{D17E7504-22DB-418A-9837-E4A4C5D4E595}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4ArrayBidimensionalExercicio", "4ArrayBidimensionalExercicio\4ArrayBidimensionalExercicio.csproj", "{B67C3F61-FE36-4AED-A102-D47789BADD97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4ArrayBidimensionalExercicio", "4ArrayBidimensionalExercicio\4ArrayBidimensionalExercicio.csproj", "{B67C3F61-FE36-4AED-A102-D47789BADD97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5ArrayList", "5ArrayList\5ArrayList.csproj", "{F38365A8-461D-471C-94DB-BA05BA736BCD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{B67C3F61-FE36-4AED-A102-D47789BADD97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B67C3F61-FE36-4AED-A102-D47789BADD97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B67C3F61-FE36-4AED-A102-D47789BADD97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F38365A8-461D-471C-94DB-BA05BA736BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F38365A8-461D-471C-94DB-BA05BA736BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F38365A8-461D-471C-94DB-BA05BA736BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F38365A8-461D-471C-94DB-BA05BA736BCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
