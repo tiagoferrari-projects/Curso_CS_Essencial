@@ -41,11 +41,47 @@
 
 #region "ArrayList 03"
 
-var lista = new ArrayList() { "Ana", 5, true, " ", null, 1.1, "Zé", 3, 9, 0 };
+//var lista = new ArrayList() { "Ana", 5, true, " ", null, 1.1, "Zé", 3, 9, 0 };
 
-lista.Remove(null);
-lista.RemoveAt(4);
-lista.RemoveRange(0, 2);
+//lista.Remove(null);
+//lista.RemoveAt(4);
+//lista.RemoveRange(0, 2);
+#endregion
+
+#region "ArrayList 04"
+
+//var lista = new ArrayList() { "Ana", 5, true, " ", null, 1.1, "Zé", 3, 9, 0 };
+
+//// verificar se um elemento existe na coleção
+//var res1 = lista.Contains(5);
+//bool res2 = lista.Contains("Mari");
+
+//Console.WriteLine(res1);
+//Console.WriteLine(res2);
+//Console.WriteLine(lista.Contains(null));
+
+var lista = new ArrayList() { "Maria", "Ana", "Zilda", "Carlos", "Diná" };
+
+Console.WriteLine("\nArrayList original\n");
+foreach (var item in lista)
+{
+    Console.Write($"{item} ");
+}
+
+lista.Sort();
+
+Console.WriteLine("\nArrayList ordenado\n");
+foreach (var item in lista)
+{
+    Console.Write($"{item} ");
+}
+
+
+Console.WriteLine($"\nNúmero de elementos do ArrayList {lista.Count}");
+
+lista.Clear();
+
+Console.WriteLine($"\nNúmero de elementos do ArrayList depois do Clear {lista.Count}");
 #endregion
 
 
