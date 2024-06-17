@@ -30,13 +30,22 @@
 //var lista = new ArrayList() { "Maria", 5, true, " ", null };
 //lista.Add(3.5);
 //lista.Insert(2, "Paulo");
+//-------------------------------------------------------------
+//var lista = new ArrayList() { "Maria", 5, true };
+//int[] array1 = { 1, 2, 3, };
 
-var lista = new ArrayList() { "Maria", 5, true };
-int[] array1 = { 1, 2, 3, };
+//lista.AddRange(array1);
+//lista.InsertRange(2, array1);
 
-lista.AddRange(array1);
-lista.InsertRange(2, array1);
+#endregion
 
+#region "ArrayList 03"
+
+var lista = new ArrayList() { "Ana", 5, true, " ", null, 1.1, "Zé", 3, 9, 0 };
+
+lista.Remove(null);
+lista.RemoveAt(4);
+lista.RemoveRange(0, 2);
 #endregion
 
 
