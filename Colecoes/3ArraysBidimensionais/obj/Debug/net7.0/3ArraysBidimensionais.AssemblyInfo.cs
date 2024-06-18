@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("3ArraysBidimensionais")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+039dff6529cadddde7c12c3ea056accb58e97ad9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47c96411bce129944f009eb287d2ecb5cd8bc517")]
 [assembly: System.Reflection.AssemblyProductAttribute("3ArraysBidimensionais")]
 [assembly: System.Reflection.AssemblyTitleAttribute("3ArraysBidimensionais")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
