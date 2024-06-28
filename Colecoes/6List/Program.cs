@@ -1,4 +1,6 @@
-﻿Console.WriteLine("## Coleção List##\n");
+﻿using System.Collections.Generic;
+
+Console.WriteLine("## Coleção List##\n");
 
 #region "Coleção List<T> I"
 //// declarar uma coleção do tipo List<T>
@@ -19,7 +21,7 @@
 //};
 #endregion
 
-#region #region "Coleção List<T> II"
+#region "Coleção List<T> II"
 
 //var lista  = new List<string>() { "Maria","Ana", "Pedro","Carlos", "José"};
 
@@ -92,18 +94,33 @@
 //*************************************************************
 
 //*************************************************************
-var lista = new List<string>() { "Maria", "Ana", "Pedro", "Carlos", "José" };
+//var lista = new List<string>() { "Maria", "Ana", "Pedro", "Carlos", "José" };
 
-ExibirLista(lista);
-lista.Sort();
-ExibirLista(lista);
+//ExibirLista(lista);
+//lista.Sort();
+//ExibirLista(lista);
 
-lista.Clear();
-ExibirLista(lista);
-Console.WriteLine($"{lista.Count} itens");
-Console.WriteLine("FIM...");
-#endregion
+//lista.Clear();
+//ExibirLista(lista);
+//Console.WriteLine($"{lista.Count} itens");
+//Console.WriteLine("FIM...");
 //*************************************************************
+#endregion
+
+#region "List"
+
+List<string> lista = new List<string>() { "Uva","Banana", "Pera", "Maça", "Abacate","Laranja", "Morango"};
+
+// método com predicado
+var lista1 = lista.Find(Procura);
+Console.WriteLine($"Predicado: {lista1}");
+
+//método utilizando função lambda
+var lista2 = lista.Find(f => f.StartsWith('L'));
+Console.WriteLine($"Expressão Lambda: {lista2}");
+
+#endregion
+
 Console.ReadKey();
 
 static void ExibirLista(List<string> lista)
@@ -111,4 +128,9 @@ static void ExibirLista(List<string> lista)
     Console.WriteLine();
     foreach (var elemento in lista)
         Console.WriteLine(elemento);
+}
+
+static bool Procura(string item)
+{
+    return item.Contains('n');
 }
