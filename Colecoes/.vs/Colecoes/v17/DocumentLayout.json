@@ -5,18 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BC00703B-9927-4337-92C8-9BDF8854DE7A}|9List_Exercicio\\9List_Exercicio.csproj|c:\\users\\tiago\\onedrive\\documentos\\github\\curso_cs_essencial\\colecoes\\9list_exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC00703B-9927-4337-92C8-9BDF8854DE7A}|9List_Exercicio\\9List_Exercicio.csproj|solutionrelative:9list_exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFEEDF7D-3DEC-4FA5-9646-FC11805069F2}|8ListEIEnumerable\\8ListEIEnumerable.csproj|c:\\users\\tiago\\onedrive\\documentos\\github\\curso_cs_essencial\\colecoes\\8listeienumerable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFEEDF7D-3DEC-4FA5-9646-FC11805069F2}|8ListEIEnumerable\\8ListEIEnumerable.csproj|solutionrelative:8listeienumerable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E47A6672-606D-429F-B9E7-FC3125A77502}|6List\\6List.csproj|c:\\users\\tiago\\onedrive\\documentos\\github\\curso_cs_essencial\\colecoes\\6list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E47A6672-606D-429F-B9E7-FC3125A77502}|6List\\6List.csproj|solutionrelative:6list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E47A6672-606D-429F-B9E7-FC3125A77502}|6List\\6List.csproj|c:\\users\\tiago\\onedrive\\documentos\\github\\curso_cs_essencial\\colecoes\\6list\\6list.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E47A6672-606D-429F-B9E7-FC3125A77502}|6List\\6List.csproj|solutionrelative:6list\\6list.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,46 +40,10 @@
               "RelativeDocumentMoniker": "9List_Exercicio\\Program.cs",
               "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\Colecoes\\9List_Exercicio\\Program.cs",
               "RelativeToolTip": "9List_Exercicio\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-30T22:16:56.278Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\Colecoes\\8ListEIEnumerable\\Program.cs",
-              "RelativeDocumentMoniker": "8ListEIEnumerable\\Program.cs",
-              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\Colecoes\\8ListEIEnumerable\\Program.cs",
-              "RelativeToolTip": "8ListEIEnumerable\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T03:17:54.909Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\Colecoes\\6List\\Program.cs",
-              "RelativeDocumentMoniker": "6List\\Program.cs",
-              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\Colecoes\\6List\\Program.cs",
-              "RelativeToolTip": "6List\\Program.cs",
-              "ViewState": "AQIAAG4AAAAAAAAAAAAAAIYAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T01:28:08.174Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "6List.csproj",
-              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\Colecoes\\6List\\6List.csproj",
-              "RelativeDocumentMoniker": "6List\\6List.csproj",
-              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\Colecoes\\6List\\6List.csproj",
-              "RelativeToolTip": "6List\\6List.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-28T01:28:04.125Z"
             }
           ]
         }

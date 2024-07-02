@@ -17,7 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4ArrayBidimensionalExercici
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5ArrayList", "5ArrayList\5ArrayList.csproj", "{F38365A8-461D-471C-94DB-BA05BA736BCD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6List", "6List\6List.csproj", "{E47A6672-606D-429F-B9E7-FC3125A77502}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6List", "6List\6List.csproj", "{E47A6672-606D-429F-B9E7-FC3125A77502}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8ListEIEnumerable", "8ListEIEnumerable\8ListEIEnumerable.csproj", "{DFEEDF7D-3DEC-4FA5-9646-FC11805069F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9List_Exercicio", "9List_Exercicio\9List_Exercicio.csproj", "{BC00703B-9927-4337-92C8-9BDF8854DE7A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{E47A6672-606D-429F-B9E7-FC3125A77502}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E47A6672-606D-429F-B9E7-FC3125A77502}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E47A6672-606D-429F-B9E7-FC3125A77502}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFEEDF7D-3DEC-4FA5-9646-FC11805069F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFEEDF7D-3DEC-4FA5-9646-FC11805069F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFEEDF7D-3DEC-4FA5-9646-FC11805069F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFEEDF7D-3DEC-4FA5-9646-FC11805069F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC00703B-9927-4337-92C8-9BDF8854DE7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC00703B-9927-4337-92C8-9BDF8854DE7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC00703B-9927-4337-92C8-9BDF8854DE7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC00703B-9927-4337-92C8-9BDF8854DE7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
