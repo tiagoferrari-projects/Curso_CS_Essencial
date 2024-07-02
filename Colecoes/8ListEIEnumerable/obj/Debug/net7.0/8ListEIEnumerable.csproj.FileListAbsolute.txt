@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\8ListEIEnumerable\bin\Debug\net7.0\8ListEIEnumerable.exe
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\8ListEIEnumerable\bin\Debug\net7.0\8ListEIEnumerable.deps.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\8ListEIEnumerable\bin\Debug\net7.0\8ListEIEnumerable.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\8ListEIEnumerable\bin\Debug\net7.0\8ListEIEnumerable.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\8ListEIEnumerable\bin\Debug\net7.0\8ListEIEnumerable.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\8ListEIEnumerable\obj\Debug\net7.0\8ListEIEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\8ListEIEnumerable\obj\Debug\net7.0\8ListEIEnumerable.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\8ListEIEnumerable\obj\Debug\net7.0\8ListEIEnumerable.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\8ListEIEnumerable\obj\Debug\net7.0\8ListEIEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\8ListEIEnumerable\obj\Debug\net7.0\8ListEIEnumerable.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\8ListEIEnumerable\obj\Debug\net7.0\8ListEIEnumerable.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\8ListEIEnumerable\obj\Debug\net7.0\refint\8ListEIEnumerable.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\8ListEIEnumerable\obj\Debug\net7.0\8ListEIEnumerable.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\8ListEIEnumerable\obj\Debug\net7.0\8ListEIEnumerable.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\8ListEIEnumerable\obj\Debug\net7.0\ref\8ListEIEnumerable.dll

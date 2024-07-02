@@ -109,15 +109,31 @@ Console.WriteLine("## Coleção List##\n");
 
 #region "List"
 
-List<string> lista = new List<string>() { "Uva","Banana", "Pera", "Maça", "Abacate","Laranja", "Morango"};
+List<string> frutas = new List<string>() { "Uva","Banana", "Pera", "Maça", "Abacate","Laranja", "Morango"};
 
 // método com predicado
-var lista1 = lista.Find(Procura);
-Console.WriteLine($"Predicado: {lista1}");
+var fruta1 = frutas.Find(Procura);
+Console.WriteLine($"Predicado: {fruta1}");
 
 //método utilizando função lambda
-var lista2 = lista.Find(f => f.StartsWith('L'));
-Console.WriteLine($"Expressão Lambda: {lista2}");
+var fruta2 = frutas.Find(f => f.StartsWith('L'));
+Console.WriteLine($"Expressão Lambda Find: {fruta2}");
+
+var fruta3 = frutas.FindLast(f => f.StartsWith('n'));
+Console.WriteLine($"Expressão Lambda FindLast: {fruta3}");
+
+var fruta4 = frutas.FindIndex(f => f.Contains('n'));
+Console.WriteLine($"Expressão Lambda FindIndex: index={fruta4} item={frutas[fruta4]}");
+
+var fruta5 = frutas.FindLastIndex(f => f.Contains('n'));
+Console.WriteLine($"Expressão Lambda FindLastIndex: index={fruta5} item={frutas[fruta5]}");
+
+var frutas6 = frutas.FindAll(f => f.Contains('n'));
+Console.Write("\nFindAll : ");
+foreach (var item in frutas6)
+{
+    Console.Write($"{item} ");
+}
 
 #endregion
 
