@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\Colecoes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC00703B-9927-4337-92C8-9BDF8854DE7A}|9List_Exercicio\\9List_Exercicio.csproj|c:\\users\\tiago\\onedrive\\documentos\\github\\curso_cs_essencial\\colecoes\\9list_exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC00703B-9927-4337-92C8-9BDF8854DE7A}|9List_Exercicio\\9List_Exercicio.csproj|solutionrelative:9list_exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E302D34-AB28-4AF2-B828-3157B2F633DA}|12NumerosAleatorios\\12NumerosAleatorios.csproj|c:\\users\\tiago\\onedrive\\documentos\\github\\curso_cs_essencial\\colecoes\\12numerosaleatorios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E302D34-AB28-4AF2-B828-3157B2F633DA}|12NumerosAleatorios\\12NumerosAleatorios.csproj|solutionrelative:12numerosaleatorios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,13 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\Colecoes\\9List_Exercicio\\Program.cs",
-              "RelativeDocumentMoniker": "9List_Exercicio\\Program.cs",
-              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\Colecoes\\9List_Exercicio\\Program.cs",
-              "RelativeToolTip": "9List_Exercicio\\Program.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACIAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\Colecoes\\12NumerosAleatorios\\Program.cs",
+              "RelativeDocumentMoniker": "12NumerosAleatorios\\Program.cs",
+              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\Colecoes\\12NumerosAleatorios\\Program.cs",
+              "RelativeToolTip": "12NumerosAleatorios\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACwAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T22:16:56.278Z",
+              "WhenOpened": "2024-07-04T03:10:38.676Z",
               "EditorCaption": ""
             }
           ]

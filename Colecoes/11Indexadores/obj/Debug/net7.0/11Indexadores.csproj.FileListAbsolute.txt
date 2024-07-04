@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\11Indexadores\obj\Debug\net7.0\11Indexadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\11Indexadores\obj\Debug\net7.0\11Indexadores.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\11Indexadores\obj\Debug\net7.0\11Indexadores.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\11Indexadores\obj\Debug\net7.0\11Indexadores.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\11Indexadores\obj\Debug\net7.0\11Indexadores.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\11Indexadores\bin\Debug\net7.0\11Indexadores.exe
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\11Indexadores\bin\Debug\net7.0\11Indexadores.deps.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\11Indexadores\bin\Debug\net7.0\11Indexadores.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\11Indexadores\bin\Debug\net7.0\11Indexadores.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\11Indexadores\bin\Debug\net7.0\11Indexadores.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\11Indexadores\obj\Debug\net7.0\11Indexadores.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\11Indexadores\obj\Debug\net7.0\refint\11Indexadores.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\11Indexadores\obj\Debug\net7.0\11Indexadores.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\11Indexadores\obj\Debug\net7.0\11Indexadores.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\11Indexadores\obj\Debug\net7.0\ref\11Indexadores.dll
