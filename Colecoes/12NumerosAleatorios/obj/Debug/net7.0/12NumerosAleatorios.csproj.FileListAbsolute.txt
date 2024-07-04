@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\12NumerosAleatorios\bin\Debug\net7.0\12NumerosAleatorios.exe
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\12NumerosAleatorios\bin\Debug\net7.0\12NumerosAleatorios.deps.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\12NumerosAleatorios\bin\Debug\net7.0\12NumerosAleatorios.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\12NumerosAleatorios\bin\Debug\net7.0\12NumerosAleatorios.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\12NumerosAleatorios\bin\Debug\net7.0\12NumerosAleatorios.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\12NumerosAleatorios\obj\Debug\net7.0\12NumerosAleatorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\12NumerosAleatorios\obj\Debug\net7.0\12NumerosAleatorios.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\12NumerosAleatorios\obj\Debug\net7.0\12NumerosAleatorios.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\12NumerosAleatorios\obj\Debug\net7.0\12NumerosAleatorios.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\12NumerosAleatorios\obj\Debug\net7.0\12NumerosAleatorios.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\12NumerosAleatorios\obj\Debug\net7.0\12NumerosAleatorios.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\12NumerosAleatorios\obj\Debug\net7.0\refint\12NumerosAleatorios.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\12NumerosAleatorios\obj\Debug\net7.0\12NumerosAleatorios.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\12NumerosAleatorios\obj\Debug\net7.0\12NumerosAleatorios.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\Colecoes\12NumerosAleatorios\obj\Debug\net7.0\ref\12NumerosAleatorios.dll
