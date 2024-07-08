@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\1Heranca_ConceitoSintaxe\bin\Debug\net7.0\1Heranca_ConceitoSintaxe.exe
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\1Heranca_ConceitoSintaxe\bin\Debug\net7.0\1Heranca_ConceitoSintaxe.deps.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\1Heranca_ConceitoSintaxe\bin\Debug\net7.0\1Heranca_ConceitoSintaxe.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\1Heranca_ConceitoSintaxe\bin\Debug\net7.0\1Heranca_ConceitoSintaxe.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\1Heranca_ConceitoSintaxe\bin\Debug\net7.0\1Heranca_ConceitoSintaxe.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\1Heranca_ConceitoSintaxe\obj\Debug\net7.0\1Heranca_ConceitoSintaxe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\1Heranca_ConceitoSintaxe\obj\Debug\net7.0\1Heranca_ConceitoSintaxe.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\1Heranca_ConceitoSintaxe\obj\Debug\net7.0\1Heranca_ConceitoSintaxe.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\1Heranca_ConceitoSintaxe\obj\Debug\net7.0\1Heranca_ConceitoSintaxe.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\1Heranca_ConceitoSintaxe\obj\Debug\net7.0\1Heranca_ConceitoSintaxe.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\1Heranca_ConceitoSintaxe\obj\Debug\net7.0\1Heranca_ConceitoSintaxe.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\1Heranca_ConceitoSintaxe\obj\Debug\net7.0\refint\1Heranca_ConceitoSintaxe.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\1Heranca_ConceitoSintaxe\obj\Debug\net7.0\1Heranca_ConceitoSintaxe.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\1Heranca_ConceitoSintaxe\obj\Debug\net7.0\1Heranca_ConceitoSintaxe.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\1Heranca_ConceitoSintaxe\obj\Debug\net7.0\ref\1Heranca_ConceitoSintaxe.dll
