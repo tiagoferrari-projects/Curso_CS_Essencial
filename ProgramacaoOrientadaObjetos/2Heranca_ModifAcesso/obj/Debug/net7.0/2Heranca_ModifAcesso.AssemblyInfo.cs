@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2Heranca_ModifAcesso")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f421e5903580501f9a2c81a3ec63685c46d20e5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+962198229abcc1ce763b11adbcf625de5aa7f5aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("2Heranca_ModifAcesso")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2Heranca_ModifAcesso")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

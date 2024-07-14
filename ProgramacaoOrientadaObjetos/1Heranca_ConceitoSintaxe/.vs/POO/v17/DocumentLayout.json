@@ -3,11 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\ProgramacaoOrientadaObjetos\\1Heranca_ConceitoSintaxe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{102FFDAE-62DA-4314-BE9C-83DC2591B155}|1Heranca_ConceitoSintaxe.csproj|c:\\users\\tiago\\onedrive\\documentos\\github\\curso_cs_essencial\\programacaoorientadaobjetos\\1heranca_conceitosintaxe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{102FFDAE-62DA-4314-BE9C-83DC2591B155}|1Heranca_ConceitoSintaxe.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91535BE1-F772-4F59-AE83-2ECA30C06CD9}|..\\3Heranca_Construtores\\3Heranca_Construtores.csproj|c:\\users\\tiago\\onedrive\\documentos\\github\\curso_cs_essencial\\programacaoorientadaobjetos\\3heranca_construtores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF1DE6D6-1BEA-4681-B700-9D5C1C76118E}|..\\2Heranca_ModifAcesso\\2Heranca_ModifAcesso.csproj|c:\\users\\tiago\\onedrive\\documentos\\github\\curso_cs_essencial\\programacaoorientadaobjetos\\2heranca_modifacesso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF1DE6D6-1BEA-4681-B700-9D5C1C76118E}|..\\2Heranca_ModifAcesso\\2Heranca_ModifAcesso.csproj|c:\\users\\tiago\\onedrive\\documentos\\github\\curso_cs_essencial\\programacaoorientadaobjetos\\2heranca_modifacesso\\2heranca_modifacesso.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102FFDAE-62DA-4314-BE9C-83DC2591B155}|1Heranca_ConceitoSintaxe.csproj|c:\\users\\tiago\\onedrive\\documentos\\github\\curso_cs_essencial\\programacaoorientadaobjetos\\1heranca_conceitosintaxe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{102FFDAE-62DA-4314-BE9C-83DC2591B155}|1Heranca_ConceitoSintaxe.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,27 +65,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\ProgramacaoOrientadaObjetos\\2Heranca_ModifAcesso\\Program.cs",
-              "RelativeDocumentMoniker": "..\\2Heranca_ModifAcesso\\Program.cs",
-              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\ProgramacaoOrientadaObjetos\\2Heranca_ModifAcesso\\Program.cs",
-              "RelativeToolTip": "..\\2Heranca_ModifAcesso\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T04:36:34.067Z"
+              "Title": "2Heranca_ModifAcesso.csproj",
+              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\ProgramacaoOrientadaObjetos\\2Heranca_ModifAcesso\\2Heranca_ModifAcesso.csproj",
+              "RelativeDocumentMoniker": "..\\2Heranca_ModifAcesso\\2Heranca_ModifAcesso.csproj",
+              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\ProgramacaoOrientadaObjetos\\2Heranca_ModifAcesso\\2Heranca_ModifAcesso.csproj",
+              "RelativeToolTip": "..\\2Heranca_ModifAcesso\\2Heranca_ModifAcesso.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-13T19:54:58.894Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\ProgramacaoOrientadaObjetos\\3Heranca_Construtores\\Program.cs",
+              "RelativeDocumentMoniker": "..\\3Heranca_Construtores\\Program.cs",
+              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\ProgramacaoOrientadaObjetos\\3Heranca_Construtores\\Program.cs",
+              "RelativeToolTip": "..\\3Heranca_Construtores\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T19:54:54.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\ProgramacaoOrientadaObjetos\\1Heranca_ConceitoSintaxe\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\ProgramacaoOrientadaObjetos\\1Heranca_ConceitoSintaxe\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAAAEwAAAAzAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T02:44:52.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T02:44:52.27Z"
             }
           ]
         }
