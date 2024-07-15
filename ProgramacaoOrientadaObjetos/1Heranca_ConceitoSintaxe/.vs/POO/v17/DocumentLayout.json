@@ -1,7 +1,14 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\ProgramacaoOrientadaObjetos\\1Heranca_ConceitoSintaxe\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D952EAEF-6800-4337-AD99-9B8602746695}|..\\7Heranca_Sealed\\7Heranca_Sealed.csproj|c:\\users\\tiago\\onedrive\\documentos\\github\\curso_cs_essencial\\programacaoorientadaobjetos\\7heranca_sealed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE0B9EB-BD01-4019-836D-8C4200B2FAE3}|..\\6Heranca_VirtualOverride\\6Heranca_VirtualOverride.csproj|c:\\users\\tiago\\onedrive\\documentos\\github\\curso_cs_essencial\\programacaoorientadaobjetos\\6heranca_virtualoverride\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +16,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,6 +57,31 @@
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\ProgramacaoOrientadaObjetos\\6Heranca_VirtualOverride\\Program.cs",
+              "RelativeDocumentMoniker": "..\\6Heranca_VirtualOverride\\Program.cs",
+              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\ProgramacaoOrientadaObjetos\\6Heranca_VirtualOverride\\Program.cs",
+              "RelativeToolTip": "..\\6Heranca_VirtualOverride\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T04:00:47.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\ProgramacaoOrientadaObjetos\\7Heranca_Sealed\\Program.cs",
+              "RelativeDocumentMoniker": "..\\7Heranca_Sealed\\Program.cs",
+              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\GitHub\\Curso_CS_Essencial\\ProgramacaoOrientadaObjetos\\7Heranca_Sealed\\Program.cs",
+              "RelativeToolTip": "..\\7Heranca_Sealed\\Program.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAIwD4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T03:56:27.583Z",
+              "EditorCaption": ""
             }
           ]
         }

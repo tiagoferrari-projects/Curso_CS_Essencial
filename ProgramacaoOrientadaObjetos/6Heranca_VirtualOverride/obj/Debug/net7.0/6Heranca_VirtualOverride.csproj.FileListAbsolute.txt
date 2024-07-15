@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\6Heranca_VirtualOverride\bin\Debug\net7.0\6Heranca_VirtualOverride.exe
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\6Heranca_VirtualOverride\bin\Debug\net7.0\6Heranca_VirtualOverride.deps.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\6Heranca_VirtualOverride\bin\Debug\net7.0\6Heranca_VirtualOverride.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\6Heranca_VirtualOverride\bin\Debug\net7.0\6Heranca_VirtualOverride.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\6Heranca_VirtualOverride\bin\Debug\net7.0\6Heranca_VirtualOverride.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\6Heranca_VirtualOverride\obj\Debug\net7.0\6Heranca_VirtualOverride.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\6Heranca_VirtualOverride\obj\Debug\net7.0\6Heranca_VirtualOverride.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\6Heranca_VirtualOverride\obj\Debug\net7.0\6Heranca_VirtualOverride.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\6Heranca_VirtualOverride\obj\Debug\net7.0\6Heranca_VirtualOverride.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\6Heranca_VirtualOverride\obj\Debug\net7.0\6Heranca_VirtualOverride.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\6Heranca_VirtualOverride\obj\Debug\net7.0\6Heranca_VirtualOverride.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\6Heranca_VirtualOverride\obj\Debug\net7.0\refint\6Heranca_VirtualOverride.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\6Heranca_VirtualOverride\obj\Debug\net7.0\6Heranca_VirtualOverride.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\6Heranca_VirtualOverride\obj\Debug\net7.0\6Heranca_VirtualOverride.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\6Heranca_VirtualOverride\obj\Debug\net7.0\ref\6Heranca_VirtualOverride.dll
