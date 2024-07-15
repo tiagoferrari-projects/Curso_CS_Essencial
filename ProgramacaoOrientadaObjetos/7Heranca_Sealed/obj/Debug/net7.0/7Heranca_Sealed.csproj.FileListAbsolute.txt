@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\7Heranca_Sealed\bin\Debug\net7.0\7Heranca_Sealed.exe
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\7Heranca_Sealed\bin\Debug\net7.0\7Heranca_Sealed.deps.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\7Heranca_Sealed\bin\Debug\net7.0\7Heranca_Sealed.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\7Heranca_Sealed\bin\Debug\net7.0\7Heranca_Sealed.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\7Heranca_Sealed\bin\Debug\net7.0\7Heranca_Sealed.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\7Heranca_Sealed\obj\Debug\net7.0\7Heranca_Sealed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\7Heranca_Sealed\obj\Debug\net7.0\7Heranca_Sealed.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\7Heranca_Sealed\obj\Debug\net7.0\7Heranca_Sealed.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\7Heranca_Sealed\obj\Debug\net7.0\7Heranca_Sealed.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\7Heranca_Sealed\obj\Debug\net7.0\7Heranca_Sealed.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\7Heranca_Sealed\obj\Debug\net7.0\7Heranca_Sealed.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\7Heranca_Sealed\obj\Debug\net7.0\refint\7Heranca_Sealed.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\7Heranca_Sealed\obj\Debug\net7.0\7Heranca_Sealed.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\7Heranca_Sealed\obj\Debug\net7.0\7Heranca_Sealed.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\Curso_CS_Essencial\ProgramacaoOrientadaObjetos\7Heranca_Sealed\obj\Debug\net7.0\ref\7Heranca_Sealed.dll
